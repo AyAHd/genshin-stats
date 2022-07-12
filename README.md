@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Boulettes de radis frites</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>641</td>
+    <td>643</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -274,21 +274,21 @@
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Bennett (9)<br /><img
+      Kaedehara Kazuha (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br />
+      Bennett (9)<br />
     </td>
   </tr>
   <tr>
@@ -351,17 +351,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3002 (rate -36)</td>
+    <td>3122 (rate -33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5155309 (rate -6)</td>
+    <td>5271429 (rate -4)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (43%)<br />Daily Activity: 600 (20%)<br />Spiral Abyss: 600
-      (20%)<br />Mail: 500 (17%)<br />Adventure: 22 (0%)<br />Quests: 0 (0%)<br />Other:
+      Events: 1280 (41%)<br />Daily Activity: 720 (24%)<br />Spiral Abyss: 600
+      (19%)<br />Mail: 500 (16%)<br />Adventure: 22 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
