@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Boulettes de radis frites</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>643</td>
+    <td>644</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>49</td>
+    <td>50</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -279,11 +279,11 @@
         height="18"
       />
       Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br /><img
+      Xingqiu (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -355,7 +355,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5271429 (rate -4)</td>
+    <td>5367529 (rate -2)</td>
   </tr>
   <tr>
     <td>Categories</td>
