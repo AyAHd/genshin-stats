@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>492</td>
+    <td>495</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>646</td>
+    <td>648</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>50</td>
+    <td>51</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1464</td>
+    <td>1466</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1135</td>
+    <td>1138</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>3</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -178,7 +178,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>98.0%</td>
+          <td>99.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -232,7 +232,7 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Fit for a King (22580)</td>
+    <td>Fit for a King (22850)</td>
   </tr>
   <tr>
     <td>Items</td>
@@ -247,121 +247,64 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>49</td>
+    <td>50</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (30)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (115611)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (46957)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (38)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (75)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4167 (rate -11)</td>
+    <td>4797 (rate 2)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5914802 (rate 7)</td>
+    <td>6475702 (rate 17)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (31%)<br />Mail: 1100 (27%)<br />Daily Activity: 900 (22%)<br />Spiral
-      Abyss: 600 (14%)<br />Quests: 230 (5%)<br />Adventure: 57 (1%)<br />Other:
+      Events: 1280 (27%)<br />Mail: 1160 (25%)<br />Spiral Abyss: 1050 (22%)<br />Daily
+      Activity: 1020 (21%)<br />Quests: 230 (4%)<br />Adventure: 57 (1%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
