@@ -36,6 +36,6 @@ jobs:
           git diff
           git config --global user.name "Noël"
           git config --global user.emai "noel@github.com"
-          git add README.md index.html
+          git add README.md characters.html
           git commit -m "Updated stats & chars" || exit 0
           git push
