@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Toast du pêcheur</td>
   </tr>
 </table>
 
@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>502</td>
+    <td>504</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1476</td>
+    <td>1477</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1152</td>
+    <td>1154</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -56,11 +56,11 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>117</td>
+    <td>119</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>24</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -279,16 +279,16 @@
         height="18"
       />
       Bennett (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+      Xiangling (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
         ,
         height="18"
       />
-      Rosaria (8)<br />
+      Beidou (8)<br />
     </td>
   </tr>
   <tr>
@@ -351,18 +351,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5213 (rate 11)</td>
+    <td>5370 (rate 14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6823311 (rate 23)</td>
+    <td>6992309 (rate 26)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (25%)<br />Mail: 1180 (23%)<br />Spiral Abyss: 1050 (21%)<br />Daily
-      Activity: 1020 (19%)<br />Adventure: 401 (7%)<br />Quests: 280 (5%)<br />Other:
-      2 (0%)<br />
+      Events: 1280 (24%)<br />Mail: 1180 (22%)<br />Daily Activity: 1080
+      (21%)<br />Spiral Abyss: 1050 (19%)<br />Adventure: 438 (8%)<br />Quests:
+      340 (6%)<br />Other: 2 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3977,6 +3977,82 @@
     </td>
   </tr>
 </table>
+<h3>Klee</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>79</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            1 x Shimenawa's Reminiscence<br />2 x Crimson Witch of Flames<br />2
+            x Gladiator's Finale<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>The Widsith</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Aloy</h3>
 <table>
   <tr>
@@ -4045,82 +4121,6 @@
         <tr>
           <td>Refinement</td>
           <td>3</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Klee</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>69</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            1 x Shimenawa's Reminiscence<br />2 x Crimson Witch of Flames<br />2
-            x Gladiator's Finale<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>The Widsith</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
         </tr>
       </table>
     </td>
