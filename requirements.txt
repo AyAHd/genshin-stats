@@ -1,2 +1,2 @@
 genshin
-Jinja2
+mako

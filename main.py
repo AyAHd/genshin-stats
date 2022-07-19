@@ -5,7 +5,8 @@ import os
 import pathlib
 
 import genshin
-import jinja2
+
+from mako.template import Template
 
 logger = logging.getLogger()
 
@@ -34,7 +35,7 @@ async def main():
         reward = await client.claimed_rewards(lang=args.lang).next()
         reward_info = await client.get_reward_info()
 
-    template = jinja2.Template(args.template.read_text())
+    template = Template(args.template.read_text())
     rendered = template.render(
         user=user,
         lang=args.lang,
@@ -44,7 +45,6 @@ async def main():
         reward_info=reward_info,
     )
     args.output.write_text(rendered)
-
 
 if __name__ == "__main__":
     asyncio.run(main())

@@ -1,0 +1,331 @@
+/*
+Dark: #073763
+Light: #0b5394
+*/
+
+body {
+    background-color: #073763;
+    margin: 0px;
+    color: grey;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    font-family: sans-serif;
+    color: #C1C1C1;
+}
+
+h1 { margin-top: 5px; }
+h2 { margin-top: 14px; }
+
+div.nav {
+    z-index: 1;
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+div.nav a div img {display:none;}
+
+div.nav a div {
+    width: 48px; height: 48px;
+    display: inline-block;
+}
+
+div.content {
+    width: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 100%;
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 10px;
+}
+
+
+.char-level-sphere, .char-weapon-sphere {
+  border-radius: 50%;
+  border: 1px solid grey;
+  width: 32px;
+  height: 32px;
+}
+
+.char-info-sphere, .char-constellations-sphere { width: 32px; margin: 0; }
+
+.char-weapon-info-sphere {
+    margin-right: 0;
+    margin-left: 128px;
+    padding-top: 58px;
+}
+
+
+.char-const-icon {
+  position: relative;
+  display: inline-block;
+}
+
+.char-const-icon .char-const-info {
+  visibility: hidden;
+  background-color: 023667;
+  color: #fff;
+  border: 1px solid grey;
+  text-align: left;
+  border-radius: 6px;
+  padding: 5px;
+
+  /* For dynamic width tooltip, use widt: max-content (take care with overflows)  */
+  width: 160px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 0px;
+  left: 30px;
+}
+
+.char-const-icon:hover .char-const-info {
+  visibility: visible;
+}
+
+.char-constellations-sphere { margin-top: 0; }
+
+.char-level,
+.char-friendship,
+.char-weapon-affix,
+.char-weapon-promote,
+.char-weapon-level {
+    text-align: center;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    margin: 6px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.elev-1:before, .elev-2:before, .elev-3:before, .elev-4:before, .elev-5:before, .elev-6:before
+{ display: block; width: 46px; }
+.elev-1:before { content: "\2726 "; width: 12px; }
+.elev-2:before { content: "\2726\2726 "; width: 24px; }
+.elev-3:before { content: "\2726\2726\2726 "; width: 36px;}
+.elev-4:before { content: "\2726\2726\2726\2726 "; width: 48px; }
+.elev-5:before { content: "\2726\2726\2726\2726\2726 "; width: 60px; }
+.elev-6:before { content: "\2726\2726\2726\2726\2726\2726 "; width: 72px; }
+
+.char-rarity-5:before, .char-weapon-rarity-5:before {margin-left: -90px;}
+.char-rarity-4:before, .char-weapon-rarity-4:before {margin-left: -72px;}
+.char-rarity-3:before, .char-weapon-rarity-3:before {margin-left: -54px;}
+
+/* Rarity Symbols : ★ (2605) & ☆ (2606) */
+.char-rarity-5:before, .char-weapon-rarity-5:before
+{ content: "\2605\2605\2605\2605\2605 "; width: 90px; }
+.char-rarity-4:before, .char-weapon-rarity-4:before
+{ content: "\2605\2605\2605\2605 "; width: 72px; }
+.char-rarity-3:before, .char-weapon-rarity-3:before
+{ content: "\2605\2605\2605 "; width: 54px; }
+.char-weapon-rarity-5:before,
+.char-weapon-rarity-4:before,
+.char-weapon-rarity-3:before { padding-top : -9px; }
+
+.abyss-3-star:before
+{ content: "\2605\2605\2605 "; width: 54px; }
+
+.char-name:hover.char-rarity-3:before,
+.char-name:hover.char-rarity-4:before,
+.char-name:hover.char-rarity-5:before,
+.char-weapon-name:hover.char-weapon-rarity-3:before,
+.char-weapon-name:hover.char-weapon-rarity-4:before,
+.char-weapon-name:hover.char-weapon-rarity-5:before
+{ display: inline; }
+
+.char-rarity-3:before,
+.char-rarity-4:before,
+.char-rarity-5:before,
+.char-weapon-rarity-3:before,
+.char-weapon-rarity-4:before,
+.char-weapon-rarity-5:before
+{
+    display: none;
+    opacity: 0.3;
+    font-size: 18px ;
+    height: 0;
+}
+
+div.char {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 450px;
+    min-height: 272px;
+    border-style: solid;
+    border-radius: 18px;
+    border-width: 2px;
+    margin: 8px;
+}
+
+div.char-info {
+    margin-left: 200px;
+    padding-left: 20px;
+}
+
+div.char-infographs {
+    width: 200px;
+    float: left;
+}
+
+div.char-img {
+    z-index: -1;
+    background-position-x: left;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+}
+
+div.char-weapon-img {
+    height: 160px;
+    width: 160px;
+    margin-top: -160px;
+    margin-left: 40px;
+    background-position-x: left;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+img.char-icon, img.weap-icon {
+    width: 46px;
+    height: 46px;
+    background-size: contain;
+    display: inline-block;
+}
+
+.char-constellations {
+    height: 250px;
+}
+
+.char-const {
+    height: 34px;
+}
+
+.char-const-icon {
+    float:left;
+    display: block;
+    border-radius: 50%;
+    border: 2px solid;
+    width: 30px;
+    height: 30px;
+    background-position-x: left;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+div.char-artefact-icon {
+    display: inline-block;
+    border-radius: 1px;
+    border: 1px solid grey;
+    width: 40px;
+    height: 64px;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+div.char-artefact-icon div.char-artefact-level {
+    padding: 46px 0 0 0;
+    text-align: center;
+}
+
+.char-artefact-info h3 {
+}
+
+
+/*
+ Element coloring
+*/
+
+.e-None-bg-color { color: grey; }
+.e-None-color { color: grey; }
+.e-None-border-color { border-color: grey; }
+
+.e-Cryo-bg-color,
+.e-Hydro-bg-color,
+.e-Pyro-bg-color,
+.e-Electro-bg-color,
+.e-Geo-bg-color,
+.e-Anemo-bg-color { color: white; }
+
+
+/*  Cryo
+    Dark: 101, 179, 219
+    Light: 137, 239, 242 */
+.e-Cryo-bg-color { background-color: rgba(101, 179, 219, .7); border-color: rgba(137, 239, 242, .8); }
+.e-Cryo-color { color: rgba(101, 179, 219, .7); }
+.e-Cryo-border-color { border-color: rgba(101, 179, 219, .7); }
+
+/*  Hydro
+    Dark: 36, 121, 255
+    Light: 58, 181, 255 */
+.e-Hydro-bg-color { background-color: rgba(36, 121, 255, .7); border-color: rgba(58, 181, 255, .8); }
+.e-Hydro-color { color: rgba(36, 121, 255, 1); }
+.e-Hydro-border-color { border-color: rgba(36, 121, 255, .7); }
+
+/*  Pyro
+    Dark: 216, 77, 47
+    Light: 245, 98, 63 */
+.e-Pyro-bg-color { background-color: rgba(216, 77, 47, .7); border-color: rgba(245, 98, 63, .8); }
+.e-Pyro-color { color: rgba(216, 77, 47, 1); }
+.e-Pyro-border-color { border-color: rgba(216, 77, 47, .7); }
+
+/*  Electro
+    Dark: 154 ; 86 ; 222 => #9A56DE
+    Light: 199 ; 124 ; 251 => #C77CFB */
+.e-Electro-bg-color { background-color: rgba(154, 86, 222, .7); border-color: rgba(199, 124, 251, .8) }
+.e-Electro-color { color: rgba(154, 86, 222, 1); }
+.e-Electro-border-color { border-color: rgba(154, 86, 222, .7); }
+
+/*  Geo
+    Dark: 243, 144, 37
+    Light: 255, 176, 40 */
+.e-Geo-bg-color { background-color: rgba(243, 144, 37, .7); border-color: rgba(255, 176, 40, .8); }
+.e-Geo-color { color: rgba(243, 144, 37, 1); }
+.e-Geo-border-color { border-color: rgba(243, 144, 37, .7); }
+
+/*  Anemo
+    Dark: 46, 183, 130
+    Light: 72, 224, 157 */
+.e-Anemo-bg-color { background-color: rgba(46, 183, 130, .7); border-color: rgba(72, 224, 157, .8); }
+.e-Anemo-color { color: rgba(46, 183, 130, .7); }
+.e-Anemo-border-color { border-color: rgba(46, 183, 130, .7); }
+
+.const-is-actived-True .char-const-icon { opacity: 1; }
+.const-is-actived-False .char-const-icon { opacity: 0.2; background-color: none; }
+
+div.char { display: block; margin: 0; }
+ul.nav, li.nav-menu, li.nav-menu ul, li.nav-item { padding: 0; margin: 0;}
+
+.char-skill p {
+    margin: 0px;
+}
+.slider {
+  width: 100%;
+  display: block;
+  -webkit-appearance: none;
+  background: grey;
+  outline: none;
+  opacity: 0.6;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #04AA6D;
+  cursor: pointer;
+}

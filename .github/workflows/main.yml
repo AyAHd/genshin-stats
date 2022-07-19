@@ -27,6 +27,7 @@ jobs:
           COOKIES: ${{ secrets.COOKIES }}
         run: |
           python main.py -o README.md
+          python main.py -t mako/genshin.mako -o characters.html
       - name: Format with prettier
         run: |
           npx prettier README.md --write --parser html
@@ -35,6 +36,6 @@ jobs:
           git diff
           git config --global user.name "Noël"
           git config --global user.emai "noel@github.com"
-          git add README.md
-          git commit -m "Updated stats" || exit 0
+          git add README.md index.html
+          git commit -m "Updated stats & chars" || exit 0
           git push
