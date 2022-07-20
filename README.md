@@ -289,11 +289,11 @@
       />
       Rosaria (8)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (8)<br />
+      Xiangling (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,21 +357,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5425 (rate 15)</td>
+    <td>5575 (rate 18)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7035801 (rate 27)</td>
+    <td>7203981 (rate 30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (24%)<br />
+      Events: 1280 (23%)<br />
+      Daily Activity: 1200 (22%)<br />
       Mail: 1180 (22%)<br />
-      Daily Activity: 1080 (20%)<br />
-      Spiral Abyss: 1050 (19%)<br />
+      Spiral Abyss: 1050 (18%)<br />
       Adventure: 453 (8%)<br />
-      Quests: 380 (7%)<br />
+      Quests: 410 (7%)<br />
       Other: 2 (0%)<br />
     </td>
   </tr>
