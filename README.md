@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>650</td>
+    <td>651</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1477</td>
+    <td>1483</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1154</td>
+    <td>1159</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -283,17 +283,17 @@
       />
       Bennett (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
-        ,
-        height="18"
-      />
-      Rosaria (8)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
       Xiangling (8)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,21 +357,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5575 (rate 18)</td>
+    <td>5908 (rate 25)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7203981 (rate 30)</td>
+    <td>7506326 (rate 36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (23%)<br />
-      Daily Activity: 1200 (22%)<br />
-      Mail: 1180 (22%)<br />
+      Events: 1530 (26%)<br />
+      Daily Activity: 1200 (21%)<br />
+      Mail: 1180 (20%)<br />
       Spiral Abyss: 1050 (18%)<br />
-      Adventure: 453 (8%)<br />
-      Quests: 410 (7%)<br />
+      Adventure: 536 (9%)<br />
+      Quests: 410 (6%)<br />
       Other: 2 (0%)<br />
     </td>
   </tr>
