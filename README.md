@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -253,19 +253,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>18</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>27</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -289,11 +289,11 @@
       />
       Xiangling (8)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
         ,
         height="18"
       />
-      Fischl (8)<br />
+      Beidou (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5908 (rate 25)</td>
+    <td>6218 (rate 32)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7506326 (rate 36)</td>
+    <td>7759122 (rate 40)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1530 (26%)<br />
-      Daily Activity: 1200 (21%)<br />
-      Mail: 1180 (20%)<br />
-      Spiral Abyss: 1050 (18%)<br />
-      Adventure: 536 (9%)<br />
+      Events: 1530 (25%)<br />
+      Mail: 1280 (21%)<br />
+      Daily Activity: 1260 (21%)<br />
+      Spiral Abyss: 1200 (19%)<br />
+      Adventure: 536 (8%)<br />
       Quests: 410 (6%)<br />
       Other: 2 (0%)<br />
     </td>
