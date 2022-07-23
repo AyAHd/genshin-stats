@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>651</td>
+    <td>654</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -275,7 +275,13 @@
         ,
         height="18"
       />
-      Xingqiu (13)<br />
+      Xingqiu (16)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
@@ -283,17 +289,11 @@
       />
       Bennett (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
         height="18"
       />
-      Xiangling (8)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
-        ,
-        height="18"
-      />
-      Beidou (8)<br />
+      Fischl (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,22 +357,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6218 (rate 32)</td>
+    <td>6509 (rate 38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7759122 (rate 40)</td>
+    <td>7921341 (rate 43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1530 (25%)<br />
-      Mail: 1280 (21%)<br />
-      Daily Activity: 1260 (21%)<br />
-      Spiral Abyss: 1200 (19%)<br />
-      Adventure: 536 (8%)<br />
+      Events: 1530 (24%)<br />
+      Daily Activity: 1380 (22%)<br />
+      Mail: 1300 (20%)<br />
+      Spiral Abyss: 1200 (18%)<br />
+      Adventure: 686 (10%)<br />
       Quests: 410 (6%)<br />
-      Other: 2 (0%)<br />
+      Other: 3 (0%)<br />
     </td>
   </tr>
 </table>
