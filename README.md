@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>654</td>
+    <td>655</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -277,17 +277,17 @@
       />
       Xingqiu (16)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
@@ -357,17 +357,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6509 (rate 38)</td>
+    <td>6569 (rate 40)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7921341 (rate 43)</td>
+    <td>8016583 (rate 45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1530 (24%)<br />
-      Daily Activity: 1380 (22%)<br />
+      Daily Activity: 1440 (22%)<br />
       Mail: 1300 (20%)<br />
       Spiral Abyss: 1200 (18%)<br />
       Adventure: 686 (10%)<br />
