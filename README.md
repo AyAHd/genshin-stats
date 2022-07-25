@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Leçons du héros</td>
   </tr>
 </table>
 
@@ -289,11 +289,11 @@
       />
       Xiangling (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Fischl (8)<br />
+      Hu Tao (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,21 +357,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6569 (rate 40)</td>
+    <td>6892 (rate 46)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8016583 (rate 45)</td>
+    <td>8274443 (rate 50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1530 (24%)<br />
-      Daily Activity: 1440 (22%)<br />
-      Mail: 1300 (20%)<br />
-      Spiral Abyss: 1200 (18%)<br />
-      Adventure: 686 (10%)<br />
-      Quests: 410 (6%)<br />
+      Events: 1620 (24%)<br />
+      Daily Activity: 1440 (21%)<br />
+      Mail: 1330 (20%)<br />
+      Spiral Abyss: 1200 (17%)<br />
+      Adventure: 839 (12%)<br />
+      Quests: 460 (6%)<br />
       Other: 3 (0%)<br />
     </td>
   </tr>
