@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>3 x Tofu aux amandes</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>506</td>
+    <td>508</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>655</td>
+    <td>657</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,15 +44,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1483</td>
+    <td>1496</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1159</td>
+    <td>1170</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>301</td>
+    <td>304</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>39</td>
+    <td>42</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -154,7 +154,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>94.6%</td>
+          <td>100.0%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -277,23 +277,23 @@
       />
       Xingqiu (16)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
       Xiangling (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Hu Tao (8)<br />
+      Bennett (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6892 (rate 46)</td>
+    <td>7042 (rate 50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8274443 (rate 50)</td>
+    <td>8459952 (rate 53)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1620 (24%)<br />
-      Daily Activity: 1440 (21%)<br />
-      Mail: 1330 (20%)<br />
+      Daily Activity: 1560 (23%)<br />
+      Mail: 1360 (19%)<br />
       Spiral Abyss: 1200 (17%)<br />
-      Adventure: 839 (12%)<br />
+      Adventure: 839 (11%)<br />
       Quests: 460 (6%)<br />
       Other: 3 (0%)<br />
     </td>
