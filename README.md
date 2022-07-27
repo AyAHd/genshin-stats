@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Tofu aux amandes</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -277,23 +277,23 @@
       />
       Xingqiu (16)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (8)<br />
+      Xiangling (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7042 (rate 50)</td>
+    <td>7271 (rate 54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8459952 (rate 53)</td>
+    <td>8647800 (rate 56)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1620 (24%)<br />
-      Daily Activity: 1560 (23%)<br />
+      Events: 1740 (24%)<br />
+      Daily Activity: 1620 (23%)<br />
       Mail: 1360 (19%)<br />
-      Spiral Abyss: 1200 (17%)<br />
-      Adventure: 839 (11%)<br />
+      Spiral Abyss: 1200 (16%)<br />
+      Adventure: 888 (12%)<br />
       Quests: 460 (6%)<br />
       Other: 3 (0%)<br />
     </td>
