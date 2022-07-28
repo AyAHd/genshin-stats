@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Leçons du héros</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>657</td>
+    <td>658</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,19 +44,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1496</td>
+    <td>1510</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1170</td>
+    <td>1186</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>304</td>
+    <td>305</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>119</td>
+    <td>120</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -277,23 +277,23 @@
       />
       Xingqiu (16)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
       Xiangling (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Rosaria (8)<br />
+      Bennett (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7271 (rate 54)</td>
+    <td>7565 (rate 61)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8647800 (rate 56)</td>
+    <td>8882915 (rate 61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1740 (24%)<br />
-      Daily Activity: 1620 (23%)<br />
-      Mail: 1360 (19%)<br />
-      Spiral Abyss: 1200 (16%)<br />
-      Adventure: 888 (12%)<br />
+      Events: 1910 (26%)<br />
+      Daily Activity: 1680 (23%)<br />
+      Mail: 1360 (18%)<br />
+      Spiral Abyss: 1200 (15%)<br />
+      Adventure: 952 (12%)<br />
       Quests: 460 (6%)<br />
       Other: 3 (0%)<br />
     </td>
