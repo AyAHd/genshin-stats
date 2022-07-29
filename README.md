@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>658</td>
+    <td>660</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -277,23 +277,23 @@
       />
       Xingqiu (16)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Hu Tao (8)<br />
+      Xiangling (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        ,
+        height="18"
+      />
+      Venti (8)<br />
     </td>
   </tr>
   <tr>
@@ -361,7 +361,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8882915 (rate 61)</td>
+    <td>8917665 (rate 61)</td>
   </tr>
   <tr>
     <td>Categories</td>
