@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>508</td>
+    <td>509</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>660</td>
+    <td>661</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,19 +40,19 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>180</td>
+    <td>181</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1510</td>
+    <td>1511</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1186</td>
+    <td>1187</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>305</td>
+    <td>307</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -60,11 +60,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>42</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>34</td>
+    <td>35</td>
   </tr>
 </table>
 
@@ -289,11 +289,11 @@
       />
       Xiangling (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Venti (8)<br />
+      Shikanoin Heizou (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,17 +357,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7565 (rate 61)</td>
+    <td>7625 (rate 62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8917665 (rate 61)</td>
+    <td>8995156 (rate 63)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1910 (26%)<br />
-      Daily Activity: 1680 (23%)<br />
+      Daily Activity: 1740 (23%)<br />
       Mail: 1360 (18%)<br />
       Spiral Abyss: 1200 (15%)<br />
       Adventure: 952 (12%)<br />
