@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>661</td>
+    <td>662</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1511</td>
+    <td>1521</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1187</td>
+    <td>1194</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -289,11 +289,11 @@
       />
       Xiangling (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (8)<br />
+      Fischl (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,21 +357,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7625 (rate 62)</td>
+    <td>8396 (rate 78)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8995156 (rate 63)</td>
+    <td>9806136 (rate 77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1910 (26%)<br />
-      Daily Activity: 1740 (23%)<br />
-      Mail: 1360 (18%)<br />
-      Spiral Abyss: 1200 (15%)<br />
-      Adventure: 952 (12%)<br />
-      Quests: 460 (6%)<br />
+      Events: 2460 (30%)<br />
+      Daily Activity: 1860 (23%)<br />
+      Mail: 1360 (16%)<br />
+      Spiral Abyss: 1200 (14%)<br />
+      Adventure: 1053 (12%)<br />
+      Quests: 460 (5%)<br />
       Other: 3 (0%)<br />
     </td>
   </tr>
