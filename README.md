@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>509</td>
+    <td>510</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>662</td>
+    <td>663</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,15 +44,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1521</td>
+    <td>1537</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1194</td>
+    <td>1200</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>307</td>
+    <td>312</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -289,11 +289,11 @@
       />
       Xiangling (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Fischl (8)<br />
+      Yelan (8)<br />
     </td>
   </tr>
   <tr>
@@ -357,22 +357,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8396 (rate 78)</td>
+    <td>163 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9806136 (rate 77)</td>
+    <td>296815 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2460 (30%)<br />
-      Daily Activity: 1860 (23%)<br />
-      Mail: 1360 (16%)<br />
-      Spiral Abyss: 1200 (14%)<br />
-      Adventure: 1053 (12%)<br />
-      Quests: 460 (5%)<br />
-      Other: 3 (0%)<br />
+      Events: 80 (50%)<br />
+      Daily Activity: 60 (36%)<br />
+      Adventure: 23 (14%)<br />
+      Quests: 0 (0%)<br />
+      Spiral Abyss: 0 (0%)<br />
+      Mail: 0 (0%)<br />
+      Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
