@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Poulet mariné aux fleurs sucrantes</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>665</td>
+    <td>667</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1542</td>
+    <td>1544</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1200</td>
+    <td>1202</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -283,17 +283,17 @@
       />
       Xiangling (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Yelan (6)<br />
+      Shikanoin Heizou (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Kuki Shinobu (6)<br />
+      Zhongli (6)<br />
     </td>
   </tr>
   <tr>
@@ -357,21 +357,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1232 (rate -85)</td>
+    <td>1446 (rate -82)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1320452 (rate -86)</td>
+    <td>1442397 (rate -85)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (49%)<br />
-      Events: 410 (34%)<br />
-      Daily Activity: 120 (9%)<br />
-      Adventure: 102 (8%)<br />
+      Spiral Abyss: 600 (42%)<br />
+      Events: 410 (29%)<br />
+      Daily Activity: 180 (12%)<br />
+      Mail: 140 (9%)<br />
+      Adventure: 116 (8%)<br />
       Quests: 0 (0%)<br />
-      Mail: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
