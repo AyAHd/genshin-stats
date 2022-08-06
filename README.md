@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Poulet mariné aux fleurs sucrantes</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -283,17 +283,17 @@
       />
       Xiangling (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (6)<br />
+      Hu Tao (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Zhongli (6)<br />
+      Yelan (6)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1446 (rate -82)</td>
+    <td>1506 (rate -82)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1442397 (rate -85)</td>
+    <td>1550206 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (42%)<br />
-      Events: 410 (29%)<br />
-      Daily Activity: 180 (12%)<br />
+      Spiral Abyss: 600 (40%)<br />
+      Events: 410 (28%)<br />
+      Daily Activity: 240 (16%)<br />
       Mail: 140 (9%)<br />
-      Adventure: 116 (8%)<br />
+      Adventure: 116 (7%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
