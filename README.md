@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>667</td>
+    <td>669</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,19 +44,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1544</td>
+    <td>1564</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1202</td>
+    <td>1214</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>315</td>
+    <td>318</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>120</td>
+    <td>123</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -237,7 +237,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>674</td>
+    <td>675</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -283,17 +283,17 @@
       />
       Xiangling (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Hu Tao (6)<br />
+      Venti (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Yelan (6)<br />
+      Kuki Shinobu (6)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1506 (rate -82)</td>
+    <td>1954 (rate -77)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1550206 (rate -84)</td>
+    <td>1953108 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (40%)<br />
-      Events: 410 (28%)<br />
-      Daily Activity: 240 (16%)<br />
-      Mail: 140 (9%)<br />
-      Adventure: 116 (7%)<br />
+      Spiral Abyss: 600 (31%)<br />
+      Events: 580 (30%)<br />
+      Adventure: 324 (17%)<br />
+      Daily Activity: 310 (15%)<br />
+      Mail: 140 (7%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
