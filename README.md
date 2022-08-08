@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>669</td>
+    <td>670</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1564</td>
+    <td>1565</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1214</td>
+    <td>1219</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>123</td>
+    <td>126</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -283,11 +283,11 @@
       />
       Xiangling (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Venti (6)<br />
+      Zhongli (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1954 (rate -77)</td>
+    <td>2261 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1953108 (rate -80)</td>
+    <td>2280335 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (31%)<br />
-      Events: 580 (30%)<br />
-      Adventure: 324 (17%)<br />
-      Daily Activity: 310 (15%)<br />
-      Mail: 140 (7%)<br />
+      Events: 690 (31%)<br />
+      Spiral Abyss: 600 (27%)<br />
+      Daily Activity: 420 (18%)<br />
+      Adventure: 411 (18%)<br />
+      Mail: 140 (6%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
