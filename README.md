@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>511</td>
+    <td>512</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>670</td>
+    <td>671</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -283,17 +283,17 @@
       />
       Xiangling (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Venti (6)<br />
+      Yelan (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (6)<br />
+      Hu Tao (6)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2261 (rate -73)</td>
+    <td>2746 (rate -67)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2296335 (rate -77)</td>
+    <td>2634301 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 690 (31%)<br />
-      Spiral Abyss: 600 (27%)<br />
-      Daily Activity: 420 (18%)<br />
-      Adventure: 411 (18%)<br />
-      Mail: 140 (6%)<br />
+      Events: 1110 (41%)<br />
+      Spiral Abyss: 600 (22%)<br />
+      Daily Activity: 480 (17%)<br />
+      Adventure: 416 (15%)<br />
+      Mail: 140 (5%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
