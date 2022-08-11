@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>671</td>
+    <td>672</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -283,17 +283,17 @@
       />
       Xiangling (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Yelan (6)<br />
+      Shikanoin Heizou (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Hu Tao (6)<br />
+      Venti (6)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2746 (rate -67)</td>
+    <td>2806 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2634301 (rate -73)</td>
+    <td>2776857 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1110 (41%)<br />
+      Events: 1110 (40%)<br />
       Spiral Abyss: 600 (22%)<br />
-      Daily Activity: 480 (17%)<br />
-      Adventure: 416 (15%)<br />
-      Mail: 140 (5%)<br />
+      Daily Activity: 540 (20%)<br />
+      Adventure: 416 (14%)<br />
+      Mail: 140 (4%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
