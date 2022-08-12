@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Boulettes de radis frites</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>672</td>
+    <td>674</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -289,11 +289,11 @@
       />
       Shikanoin Heizou (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Venti (6)<br />
+      Zhongli (6)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2806 (rate -66)</td>
+    <td>2886 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2776857 (rate -72)</td>
+    <td>2846232 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1110 (40%)<br />
-      Spiral Abyss: 600 (22%)<br />
-      Daily Activity: 540 (20%)<br />
+      Events: 1110 (39%)<br />
+      Daily Activity: 600 (21%)<br />
+      Spiral Abyss: 600 (21%)<br />
       Adventure: 416 (14%)<br />
-      Mail: 140 (4%)<br />
+      Mail: 160 (5%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
