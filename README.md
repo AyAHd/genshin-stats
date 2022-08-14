@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>674</td>
+    <td>675</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -289,11 +289,11 @@
       />
       Yelan (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (6)<br />
+      Hu Tao (6)<br />
     </td>
   </tr>
   <tr>
@@ -357,20 +357,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2886 (rate -66)</td>
+    <td>3246 (rate -61)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2946684 (rate -70)</td>
+    <td>3220615 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1110 (39%)<br />
-      Daily Activity: 600 (21%)<br />
-      Spiral Abyss: 600 (21%)<br />
-      Adventure: 416 (14%)<br />
-      Mail: 160 (5%)<br />
+      Events: 1110 (35%)<br />
+      Daily Activity: 660 (21%)<br />
+      Spiral Abyss: 600 (18%)<br />
+      Mail: 460 (14%)<br />
+      Adventure: 416 (12%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
