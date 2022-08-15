@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>675</td>
+    <td>676</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -283,11 +283,11 @@
       />
       Xiangling (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Yelan (6)<br />
+      Zhongli (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
@@ -357,19 +357,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3246 (rate -61)</td>
+    <td>3306 (rate -61)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3220615 (rate -67)</td>
+    <td>3313444 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1110 (35%)<br />
-      Daily Activity: 660 (21%)<br />
-      Spiral Abyss: 600 (18%)<br />
-      Mail: 460 (14%)<br />
+      Events: 1110 (34%)<br />
+      Daily Activity: 720 (22%)<br />
+      Spiral Abyss: 600 (19%)<br />
+      Mail: 460 (13%)<br />
       Adventure: 416 (12%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
