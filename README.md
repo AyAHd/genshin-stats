@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -357,19 +357,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4226 (rate -50)</td>
+    <td>4296 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6556748 (rate -34)</td>
+    <td>6587848 (rate -34)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1530 (37%)<br />
+      Events: 1530 (36%)<br />
       Daily Activity: 1170 (28%)<br />
       Spiral Abyss: 600 (14%)<br />
-      Mail: 510 (12%)<br />
+      Mail: 580 (13%)<br />
       Adventure: 416 (9%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
