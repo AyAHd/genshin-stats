@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>10 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>512</td>
+    <td>514</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>685</td>
+    <td>686</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>190</td>
+    <td>206</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1565</td>
+    <td>1567</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1219</td>
+    <td>1220</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -60,17 +60,18 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>35</td>
+    <td>37</td>
   </tr>
 </table>
 
 <h2>Exploration</h2>
 <table>
   <tr>
+    <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
     <th>The Chasm</th>
     <th>Enkanomiya</th>
@@ -78,9 +79,16 @@
     <th>Dragonspine</th>
     <th>Liyue</th>
     <th>Mondstadt</th>
-    <th>Sumeru</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -137,16 +145,20 @@
         />
       </p>
     </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png"
-          width="180"
-        />
-      </p>
-    </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>1.0%</td>
+        </tr>
+        <tr>
+          <td>Reputation</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -228,18 +240,6 @@
         <tr>
           <td>Reputation</td>
           <td>8</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>0.0%</td>
-        </tr>
-        <tr>
-          <td>Reputation</td>
-          <td>0</td>
         </tr>
       </table>
     </td>
@@ -378,20 +378,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5075 (rate -40)</td>
+    <td>5150 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6785084 (rate -32)</td>
+    <td>6901776 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1530 (31%)<br />
-      Daily Activity: 1230 (25%)<br />
-      Mail: 1180 (23%)<br />
+      Events: 1530 (30%)<br />
+      Daily Activity: 1290 (26%)<br />
+      Mail: 1190 (23%)<br />
       Spiral Abyss: 600 (11%)<br />
-      Adventure: 525 (10%)<br />
+      Adventure: 530 (10%)<br />
       Other: 10 (0%)<br />
       Quests: 0 (0%)<br />
     </td>
