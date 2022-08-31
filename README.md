@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>691</td>
+    <td>692</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -274,11 +274,11 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>51</td>
+    <td>52</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -294,87 +294,27 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (9)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (6)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (6)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (20)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (87639)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (46360)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (30)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (38)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -382,20 +322,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5566 (rate -34)</td>
+    <td>6470 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7561810 (rate -24)</td>
+    <td>8455799 (rate -15)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1530 (28%)<br />
-      Daily Activity: 1530 (28%)<br />
-      Mail: 1270 (23%)<br />
-      Spiral Abyss: 600 (11%)<br />
-      Adventure: 596 (10%)<br />
+      Daily Activity: 1590 (25%)<br />
+      Events: 1530 (24%)<br />
+      Mail: 1270 (20%)<br />
+      Spiral Abyss: 1200 (19%)<br />
+      Adventure: 840 (12%)<br />
       Quests: 30 (0%)<br />
       Other: 10 (0%)<br />
     </td>
