@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>516</td>
+    <td>518</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>692</td>
+    <td>693</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>210</td>
+    <td>220</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>9</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1575</td>
+    <td>1592</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1222</td>
+    <td>1229</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>318</td>
+    <td>322</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,11 +64,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>48</td>
+    <td>52</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>37</td>
+    <td>39</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>2.0%</td>
+          <td>6.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -294,27 +294,87 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (38)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (121927)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (81667)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (30)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (69)<br />
+    </td>
   </tr>
 </table>
 
@@ -322,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6470 (rate -23)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8455799 (rate -15)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1590 (25%)<br />
-      Events: 1530 (24%)<br />
-      Mail: 1270 (20%)<br />
-      Spiral Abyss: 1200 (19%)<br />
-      Adventure: 840 (12%)<br />
-      Quests: 30 (0%)<br />
-      Other: 10 (0%)<br />
+      Events: 0 (0%)<br />
+      Adventure: 0 (0%)<br />
+      Quests: 0 (0%)<br />
+      Daily Activity: 0 (0%)<br />
+      Spiral Abyss: 0 (0%)<br />
+      Mail: 0 (0%)<br />
+      Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
