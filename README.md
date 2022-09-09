@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -274,107 +274,47 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>52</td>
+    <td>53</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>14</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (38)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (121927)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (81667)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (30)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (69)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -382,22 +322,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>830 (rate -87)</td>
+    <td>1340 (rate -79)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>796665 (rate -90)</td>
+    <td>1304116 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 420 (51%)<br />
-      Events: 260 (32%)<br />
-      Other: 120 (14%)<br />
-      Mail: 20 (2%)<br />
-      Adventure: 10 (1%)<br />
+      Daily Activity: 480 (36%)<br />
+      Spiral Abyss: 450 (34%)<br />
+      Events: 260 (20%)<br />
+      Other: 120 (9%)<br />
+      Mail: 20 (1%)<br />
+      Adventure: 10 (0%)<br />
       Quests: 0 (0%)<br />
-      Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
