@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -296,11 +296,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
         height="18"
       />
-      Kuki Shinobu (6)<br />
+      Fischl (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
@@ -314,11 +314,11 @@
       />
       Traveler (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Fischl (6)<br />
+      Kuki Shinobu (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1340 (rate -79)</td>
+    <td>1673 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1369116 (rate -83)</td>
+    <td>1815207 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 480 (36%)<br />
-      Spiral Abyss: 450 (34%)<br />
-      Events: 260 (20%)<br />
-      Other: 120 (9%)<br />
-      Mail: 20 (1%)<br />
-      Adventure: 10 (0%)<br />
+      Daily Activity: 540 (33%)<br />
+      Spiral Abyss: 450 (27%)<br />
+      Events: 300 (18%)<br />
+      Other: 240 (14%)<br />
+      Adventure: 103 (6%)<br />
+      Mail: 40 (2%)<br />
       Quests: 0 (0%)<br />
     </td>
   </tr>
