@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Boulettes de radis frites</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>702</td>
+    <td>704</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>220</td>
+    <td>222</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>26</td>
+    <td>32</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1592</td>
+    <td>1611</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1229</td>
+    <td>1236</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>322</td>
+    <td>323</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>6.0%</td>
+          <td>9.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -296,23 +296,23 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-        ,
-        height="18"
-      />
-      Fischl (6)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Traveler (6)<br />
+      Sangonomiya Kokomi (6)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1673 (rate -74)</td>
+    <td>1733 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1815207 (rate -78)</td>
+    <td>1882467 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 540 (33%)<br />
-      Spiral Abyss: 450 (27%)<br />
+      Daily Activity: 600 (35%)<br />
+      Spiral Abyss: 450 (26%)<br />
       Events: 300 (18%)<br />
       Other: 240 (14%)<br />
-      Adventure: 103 (6%)<br />
+      Adventure: 103 (5%)<br />
       Mail: 40 (2%)<br />
       Quests: 0 (0%)<br />
     </td>
