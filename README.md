@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Boulettes de radis frites</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -296,11 +296,17 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
       />
-      Raiden Shogun (6)<br />
+      Traveler (6)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
+        ,
+        height="18"
+      />
+      Collei (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
@@ -313,12 +319,6 @@
         height="18"
       />
       Fischl (6)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1733 (rate -73)</td>
+    <td>1793 (rate -72)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1882467 (rate -77)</td>
+    <td>1970531 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (35%)<br />
+      Daily Activity: 660 (37%)<br />
       Spiral Abyss: 450 (26%)<br />
-      Events: 300 (18%)<br />
-      Other: 240 (14%)<br />
+      Events: 300 (17%)<br />
+      Other: 240 (13%)<br />
       Adventure: 103 (5%)<br />
       Mail: 40 (2%)<br />
       Quests: 0 (0%)<br />
