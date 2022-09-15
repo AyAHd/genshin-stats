@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>705</td>
+    <td>707</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -296,17 +296,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Fischl (6)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-        ,
-        height="18"
-      />
-      Traveler (6)<br />
+      Sangonomiya Kokomi (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
@@ -314,11 +308,17 @@
       />
       Raiden Shogun (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (6)<br />
+      Collei (6)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        ,
+        height="18"
+      />
+      Traveler (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1853 (rate -71)</td>
+    <td>1913 (rate -70)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2082156 (rate -75)</td>
+    <td>2176453 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 720 (39%)<br />
-      Spiral Abyss: 450 (25%)<br />
-      Events: 300 (17%)<br />
+      Daily Activity: 780 (41%)<br />
+      Spiral Abyss: 450 (24%)<br />
+      Events: 300 (16%)<br />
       Other: 240 (12%)<br />
       Adventure: 103 (5%)<br />
       Mail: 40 (2%)<br />
