@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>708</td>
+    <td>710</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -296,12 +296,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (6)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
@@ -314,11 +308,17 @@
       />
       Collei (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Raiden Shogun (6)<br />
+      Kuki Shinobu (6)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1973 (rate -69)</td>
+    <td>2333 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2264779 (rate -73)</td>
+    <td>2422649 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 840 (43%)<br />
-      Spiral Abyss: 450 (23%)<br />
-      Events: 300 (15%)<br />
-      Other: 240 (12%)<br />
-      Adventure: 103 (5%)<br />
-      Mail: 40 (2%)<br />
+      Daily Activity: 900 (39%)<br />
+      Spiral Abyss: 450 (20%)<br />
+      Mail: 340 (15%)<br />
+      Events: 300 (12%)<br />
+      Other: 240 (10%)<br />
+      Adventure: 103 (4%)<br />
       Quests: 0 (0%)<br />
     </td>
   </tr>
