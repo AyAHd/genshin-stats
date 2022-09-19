@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Toast du pêcheur</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>710</td>
+    <td>711</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>222</td>
+    <td>225</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>32</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1611</td>
+    <td>1612</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1236</td>
+    <td>1237</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>126</td>
+    <td>127</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>9.0%</td>
+          <td>11.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>676</td>
+    <td>678</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2413 (rate -62)</td>
+    <td>2955 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2549784 (rate -69)</td>
+    <td>2906790 (rate -65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 960 (40%)<br />
-      Spiral Abyss: 450 (19%)<br />
-      Mail: 360 (15%)<br />
-      Events: 300 (13%)<br />
-      Other: 240 (9%)<br />
-      Adventure: 103 (4%)<br />
+      Daily Activity: 1020 (35%)<br />
+      Other: 480 (17%)<br />
+      Spiral Abyss: 450 (15%)<br />
+      Mail: 360 (12%)<br />
+      Adventure: 345 (11%)<br />
+      Events: 300 (10%)<br />
       Quests: 0 (0%)<br />
     </td>
   </tr>
