@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Toast du pêcheur</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2955 (rate -54)</td>
+    <td>3015 (rate -53)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2906790 (rate -65)</td>
+    <td>2978765 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1020 (35%)<br />
-      Other: 480 (17%)<br />
+      Daily Activity: 1080 (36%)<br />
+      Other: 480 (16%)<br />
       Spiral Abyss: 450 (15%)<br />
       Mail: 360 (12%)<br />
-      Adventure: 345 (11%)<br />
-      Events: 300 (10%)<br />
+      Adventure: 345 (12%)<br />
+      Events: 300 (9%)<br />
       Quests: 0 (0%)<br />
     </td>
   </tr>
