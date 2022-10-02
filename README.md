@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Leçons du héros</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>722</td>
+    <td>724</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -278,7 +278,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>40000 (rate -99)</td>
   </tr>
   <tr>
     <td>Categories</td>
