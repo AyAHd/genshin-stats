@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Toast du pêcheur</td>
   </tr>
 </table>
 
@@ -274,7 +274,7 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1540 (rate -75)</td>
+    <td>1560 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
@@ -283,7 +283,7 @@
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1040 (68%)<br />
+      Events: 1060 (68%)<br />
       Mail: 500 (32%)<br />
       Adventure: 0 (0%)<br />
       Quests: 0 (0%)<br />
