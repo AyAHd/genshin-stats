@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>737</td>
+    <td>739</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -278,7 +278,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1919244 (rate -59)</td>
+    <td>1929244 (rate -59)</td>
   </tr>
   <tr>
     <td>Categories</td>
