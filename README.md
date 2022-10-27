@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Tofu aux amandes</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>519</td>
+    <td>522</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>743</td>
+    <td>744</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>225</td>
+    <td>226</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1612</td>
+    <td>1614</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -274,18 +274,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2280 (rate -63)</td>
+    <td>2299 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2173244 (rate -54)</td>
+    <td>2226095 (rate -53)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1480 (65%)<br />
       Mail: 800 (35%)<br />
-      Adventure: 0 (0%)<br />
+      Adventure: 19 (0%)<br />
       Quests: 0 (0%)<br />
       Daily Activity: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
