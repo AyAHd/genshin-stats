@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>744</td>
+    <td>745</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -274,18 +274,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2299 (rate -63)</td>
+    <td>2304 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2226095 (rate -53)</td>
+    <td>2242095 (rate -53)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1480 (65%)<br />
-      Mail: 800 (35%)<br />
-      Adventure: 19 (0%)<br />
+      Mail: 800 (34%)<br />
+      Adventure: 24 (1%)<br />
       Quests: 0 (0%)<br />
       Daily Activity: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
