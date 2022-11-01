@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -270,26 +270,74 @@
   </tr>
 </table>
 
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>56</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>33</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>12-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
+  </tr>
+</table>
+
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3216 (rate -49)</td>
+    <td>74 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2826213 (rate -41)</td>
+    <td>195019 (rate -94)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2340 (73%)<br />
-      Mail: 800 (25%)<br />
-      Adventure: 72 (2%)<br />
-      Other: 4 (0%)<br />
-      Quests: 0 (0%)<br />
+      Adventure: 44 (60%)<br />
+      Quests: 30 (40%)<br />
+      Events: 0 (0%)<br />
       Daily Activity: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
+      Mail: 0 (0%)<br />
+      Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
