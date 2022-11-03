@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>543</td>
+    <td>544</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>750</td>
+    <td>751</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>55</td>
+    <td>56</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>38</td>
+    <td>41</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1622</td>
+    <td>1624</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>324</td>
+    <td>325</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -294,27 +294,87 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        ,
+        height="18"
+      />
+      Traveler (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (52)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (141442)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (157329)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (24)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (57)<br />
+    </td>
   </tr>
 </table>
 
@@ -322,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1423 (rate -64)</td>
+    <td>1517 (rate -62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>961134 (rate -73)</td>
+    <td>1114315 (rate -69)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 640 (45%)<br />
-      Spiral Abyss: 600 (43%)<br />
-      Adventure: 123 (8%)<br />
-      Quests: 60 (4%)<br />
+      Mail: 640 (43%)<br />
+      Spiral Abyss: 600 (40%)<br />
+      Adventure: 157 (11%)<br />
+      Quests: 60 (3%)<br />
+      Daily Activity: 60 (3%)<br />
       Events: 0 (0%)<br />
-      Daily Activity: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
