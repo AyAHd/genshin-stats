@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Poulet mariné aux fleurs sucrantes</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>544</td>
+    <td>554</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>751</td>
+    <td>753</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>229</td>
+    <td>231</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>41</td>
+    <td>63</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1624</td>
+    <td>1653</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1239</td>
+    <td>1250</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -60,15 +60,15 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>127</td>
+    <td>129</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>53</td>
+    <td>56</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
 </table>
 
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>13.0%</td>
+          <td>18.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -296,6 +296,12 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (12)<br />
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -313,12 +319,6 @@
         height="18"
       />
       Traveler (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (12)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1517 (rate -62)</td>
+    <td>2119 (rate -46)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1114315 (rate -69)</td>
+    <td>1851902 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 640 (43%)<br />
-      Spiral Abyss: 600 (40%)<br />
-      Adventure: 157 (11%)<br />
-      Quests: 60 (3%)<br />
-      Daily Activity: 60 (3%)<br />
-      Events: 0 (0%)<br />
-      Other: 0 (0%)<br />
+      Mail: 660 (32%)<br />
+      Spiral Abyss: 600 (29%)<br />
+      Adventure: 448 (21%)<br />
+      Daily Activity: 180 (8%)<br />
+      Quests: 170 (8%)<br />
+      Events: 60 (2%)<br />
+      Other: 1 (0%)<br />
     </td>
   </tr>
 </table>
