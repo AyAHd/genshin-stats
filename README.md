@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Poulet mariné aux fleurs sucrantes</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -296,11 +296,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Kuki Shinobu (12)<br />
+      Raiden Shogun (12)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
@@ -308,11 +308,11 @@
       />
       Kaedehara Kazuha (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Kuki Shinobu (12)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2119 (rate -46)</td>
+    <td>2412 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1851902 (rate -49)</td>
+    <td>2454996 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (32%)<br />
-      Spiral Abyss: 600 (29%)<br />
-      Adventure: 448 (21%)<br />
-      Daily Activity: 180 (8%)<br />
-      Quests: 170 (8%)<br />
+      Mail: 660 (28%)<br />
+      Spiral Abyss: 600 (25%)<br />
+      Adventure: 531 (23%)<br />
+      Quests: 320 (13%)<br />
+      Daily Activity: 240 (9%)<br />
       Events: 60 (2%)<br />
       Other: 1 (0%)<br />
     </td>
