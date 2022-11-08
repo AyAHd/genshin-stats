@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>754</td>
+    <td>755</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1656</td>
+    <td>1657</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>56</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -302,12 +302,6 @@
       />
       Raiden Shogun (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
@@ -319,6 +313,12 @@
         height="18"
       />
       Traveler (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2479 (rate -37)</td>
+    <td>2539 (rate -36)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2611199 (rate -28)</td>
+    <td>2710309 (rate -26)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (27%)<br />
-      Spiral Abyss: 600 (25%)<br />
+      Mail: 660 (26%)<br />
+      Spiral Abyss: 600 (24%)<br />
       Adventure: 538 (22%)<br />
+      Daily Activity: 360 (14%)<br />
       Quests: 320 (12%)<br />
-      Daily Activity: 300 (12%)<br />
       Events: 60 (2%)<br />
       Other: 1 (0%)<br />
     </td>
