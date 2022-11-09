@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -296,17 +296,17 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2539 (rate -36)</td>
+    <td>2611 (rate -34)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2710309 (rate -26)</td>
+    <td>2810639 (rate -23)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Mail: 660 (26%)<br />
-      Spiral Abyss: 600 (24%)<br />
-      Adventure: 538 (22%)<br />
-      Daily Activity: 360 (14%)<br />
+      Spiral Abyss: 600 (23%)<br />
+      Adventure: 550 (21%)<br />
+      Daily Activity: 420 (16%)<br />
       Quests: 320 (12%)<br />
       Events: 60 (2%)<br />
       Other: 1 (0%)<br />
