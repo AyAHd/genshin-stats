@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>558</td>
+    <td>560</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>755</td>
+    <td>758</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1657</td>
+    <td>1658</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -302,12 +302,6 @@
       />
       Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
@@ -319,6 +313,12 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2611 (rate -34)</td>
+    <td>2671 (rate -33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2810639 (rate -23)</td>
+    <td>2916642 (rate -20)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (26%)<br />
+      Mail: 660 (25%)<br />
       Spiral Abyss: 600 (23%)<br />
       Adventure: 550 (21%)<br />
-      Daily Activity: 420 (16%)<br />
-      Quests: 320 (12%)<br />
+      Daily Activity: 480 (18%)<br />
+      Quests: 320 (11%)<br />
       Events: 60 (2%)<br />
       Other: 1 (0%)<br />
     </td>
