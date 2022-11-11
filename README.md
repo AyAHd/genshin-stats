@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>231</td>
+    <td>232</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1251</td>
+    <td>1252</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -296,6 +296,12 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
@@ -313,12 +319,6 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2671 (rate -33)</td>
+    <td>2741 (rate -31)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2916642 (rate -20)</td>
+    <td>3212547 (rate -12)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Mail: 660 (25%)<br />
-      Spiral Abyss: 600 (23%)<br />
-      Adventure: 550 (21%)<br />
-      Daily Activity: 480 (18%)<br />
+      Spiral Abyss: 600 (22%)<br />
+      Adventure: 560 (21%)<br />
+      Daily Activity: 540 (19%)<br />
       Quests: 320 (11%)<br />
       Events: 60 (2%)<br />
       Other: 1 (0%)<br />
