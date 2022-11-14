@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>760</td>
+    <td>761</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>64</td>
+    <td>65</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1252</td>
+    <td>1253</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>57</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -296,17 +296,17 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (12)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (12)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2891 (rate -27)</td>
+    <td>2961 (rate -25)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3429953 (rate -6)</td>
+    <td>3584642 (rate -2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (24%)<br />
-      Daily Activity: 660 (23%)<br />
+      Daily Activity: 720 (25%)<br />
+      Mail: 680 (23%)<br />
       Spiral Abyss: 600 (21%)<br />
-      Adventure: 570 (19%)<br />
-      Quests: 320 (11%)<br />
+      Adventure: 580 (19%)<br />
+      Quests: 320 (10%)<br />
       Events: 60 (2%)<br />
       Other: 1 (0%)<br />
     </td>
