@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>761</td>
+    <td>762</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -308,17 +308,17 @@
       />
       Raiden Shogun (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
       />
       Traveler (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3026 (rate -24)</td>
+    <td>3086 (rate -22)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3702260 (rate 0)</td>
+    <td>3801863 (rate 3)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (26%)<br />
+      Daily Activity: 840 (28%)<br />
       Mail: 680 (23%)<br />
       Spiral Abyss: 600 (20%)<br />
-      Adventure: 585 (20%)<br />
+      Adventure: 585 (18%)<br />
       Quests: 320 (10%)<br />
       Events: 60 (1%)<br />
       Other: 1 (0%)<br />
