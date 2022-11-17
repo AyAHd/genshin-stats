@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>762</td>
+    <td>764</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>232</td>
+    <td>233</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -296,11 +296,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kuki Shinobu (12)<br />
+      Kaedehara Kazuha (12)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
@@ -314,11 +314,11 @@
       />
       Traveler (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Kuki Shinobu (12)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3086 (rate -22)</td>
+    <td>3191 (rate -20)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3801863 (rate 3)</td>
+    <td>3932444 (rate 7)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 840 (28%)<br />
-      Mail: 680 (23%)<br />
-      Spiral Abyss: 600 (20%)<br />
-      Adventure: 585 (18%)<br />
+      Daily Activity: 900 (29%)<br />
+      Mail: 680 (22%)<br />
+      Spiral Abyss: 600 (18%)<br />
+      Adventure: 590 (18%)<br />
       Quests: 320 (10%)<br />
-      Events: 60 (1%)<br />
+      Events: 100 (3%)<br />
       Other: 1 (0%)<br />
     </td>
   </tr>
