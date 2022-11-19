@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Toast du pêcheur</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>562</td>
+    <td>563</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>764</td>
+    <td>765</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>233</td>
+    <td>234</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>65</td>
+    <td>67</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1658</td>
+    <td>1661</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1253</td>
+    <td>1255</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,11 +64,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>40</td>
+    <td>41</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>18.0%</td>
+          <td>19.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -274,107 +274,47 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>57</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>15</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>12-1</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-        ,
-        height="18"
-      />
-      Traveler (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (52)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (141442)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (157329)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (24)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (57)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -382,22 +322,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3302 (rate -17)</td>
+    <td>3870 (rate -3)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4067568 (rate 10)</td>
+    <td>4653547 (rate 26)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 960 (30%)<br />
-      Mail: 700 (22%)<br />
-      Adventure: 621 (18%)<br />
-      Spiral Abyss: 600 (18%)<br />
-      Quests: 320 (9%)<br />
-      Events: 100 (3%)<br />
-      Other: 1 (0%)<br />
+      Spiral Abyss: 1100 (29%)<br />
+      Daily Activity: 1020 (27%)<br />
+      Mail: 700 (18%)<br />
+      Adventure: 628 (16%)<br />
+      Quests: 320 (8%)<br />
+      Events: 100 (2%)<br />
+      Other: 2 (0%)<br />
     </td>
   </tr>
 </table>
