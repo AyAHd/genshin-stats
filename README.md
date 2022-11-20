@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Toast du pêcheur</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>765</td>
+    <td>767</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>56</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>67</td>
+    <td>68</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1661</td>
+    <td>1663</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1255</td>
+    <td>1258</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>19.0%</td>
+          <td>20.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -294,27 +294,87 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (8)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (60)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (107586)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (82557)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (22)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (90)<br />
+    </td>
   </tr>
 </table>
 
@@ -322,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3870 (rate -3)</td>
+    <td>4002 (rate 0)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4653547 (rate 26)</td>
+    <td>4816273 (rate 31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1100 (29%)<br />
-      Daily Activity: 1020 (27%)<br />
+      Spiral Abyss: 1100 (28%)<br />
+      Daily Activity: 1080 (27%)<br />
       Mail: 700 (18%)<br />
-      Adventure: 628 (16%)<br />
+      Adventure: 640 (16%)<br />
       Quests: 320 (8%)<br />
-      Events: 100 (2%)<br />
+      Events: 160 (3%)<br />
       Other: 2 (0%)<br />
     </td>
   </tr>
