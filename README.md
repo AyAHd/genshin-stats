@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>767</td>
+    <td>768</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>234</td>
+    <td>235</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1663</td>
+    <td>1666</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1258</td>
+    <td>1259</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -314,11 +314,11 @@
       />
       Nahida (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yoimiya (8)<br />
+      Yelan (8)<br />
     </td>
   </tr>
   <tr>
@@ -382,17 +382,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4378 (rate 9)</td>
+    <td>4438 (rate 11)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5175659 (rate 40)</td>
+    <td>5244040 (rate 42)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1140 (27%)<br />
-      Spiral Abyss: 1100 (26%)<br />
+      Daily Activity: 1200 (28%)<br />
+      Spiral Abyss: 1100 (25%)<br />
       Mail: 700 (16%)<br />
       Adventure: 656 (14%)<br />
       Events: 460 (10%)<br />
