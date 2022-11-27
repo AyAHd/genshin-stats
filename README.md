@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Tofu aux amandes</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>773</td>
+    <td>774</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,11 +314,11 @@
       />
       Nahida (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Yoimiya (8)<br />
+      Bennett (8)<br />
     </td>
   </tr>
   <tr>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6154 (rate 54)</td>
+    <td>6214 (rate 55)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7210619 (rate 96)</td>
+    <td>7305950 (rate 98)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
+      Daily Activity: 1500 (25%)<br />
       Events: 1450 (24%)<br />
-      Daily Activity: 1440 (24%)<br />
-      Spiral Abyss: 1100 (18%)<br />
+      Spiral Abyss: 1100 (17%)<br />
       Mail: 1015 (16%)<br />
       Adventure: 767 (12%)<br />
       Quests: 380 (6%)<br />
