@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -314,11 +314,11 @@
       />
       Nahida (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Yelan (8)<br />
+      Bennett (8)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6274 (rate 57)</td>
+    <td>6376 (rate 59)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7394195 (rate 101)</td>
+    <td>7572662 (rate 106)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1560 (25%)<br />
-      Events: 1450 (24%)<br />
-      Spiral Abyss: 1100 (17%)<br />
-      Mail: 1015 (16%)<br />
-      Adventure: 767 (12%)<br />
-      Quests: 380 (6%)<br />
+      Daily Activity: 1620 (26%)<br />
+      Events: 1490 (24%)<br />
+      Spiral Abyss: 1100 (18%)<br />
+      Mail: 1015 (15%)<br />
+      Adventure: 769 (12%)<br />
+      Quests: 380 (5%)<br />
       Other: 2 (0%)<br />
     </td>
   </tr>
