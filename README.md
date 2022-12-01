@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -278,19 +278,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>30</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>14</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -314,11 +314,11 @@
       />
       Nahida (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Bennett (8)<br />
+      Yoimiya (8)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6476 (rate 62)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7766996 (rate 111)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1680 (26%)<br />
-      Events: 1530 (24%)<br />
-      Spiral Abyss: 1100 (17%)<br />
-      Mail: 1015 (16%)<br />
-      Adventure: 769 (12%)<br />
-      Quests: 380 (5%)<br />
-      Other: 2 (0%)<br />
+      Events: 0 (0%)<br />
+      Adventure: 0 (0%)<br />
+      Quests: 0 (0%)<br />
+      Daily Activity: 0 (0%)<br />
+      Spiral Abyss: 0 (0%)<br />
+      Mail: 0 (0%)<br />
+      Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
