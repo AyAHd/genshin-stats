@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>563</td>
+    <td>564</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>777</td>
+    <td>778</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (11)<br />
+      Xingqiu (16)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Nahida (9)<br />
+      Raiden Shogun (14)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yoimiya (8)<br />
+      Yelan (13)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (13)<br />
     </td>
   </tr>
   <tr>
@@ -329,18 +329,18 @@
         ,
         height="18"
       />
-      Raiden Shogun (60)<br />
+      Raiden Shogun (71)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Raiden Shogun (107586)<br />
+      Hu Tao (165662)<br />
     </td>
   </tr>
   <tr>
@@ -351,7 +351,7 @@
         ,
         height="18"
       />
-      Yoimiya (82557)<br />
+      Yoimiya (194102)<br />
     </td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@
         ,
         height="18"
       />
-      Bennett (22)<br />
+      Bennett (63)<br />
     </td>
   </tr>
   <tr>
@@ -373,7 +373,7 @@
         ,
         height="18"
       />
-      Bennett (90)<br />
+      Bennett (180)<br />
     </td>
   </tr>
 </table>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>102 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>109319 (rate -98)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />
-      Adventure: 0 (0%)<br />
+      Daily Activity: 60 (59%)<br />
+      Events: 40 (40%)<br />
+      Adventure: 2 (1%)<br />
       Quests: 0 (0%)<br />
-      Daily Activity: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
       Mail: 0 (0%)<br />
       Other: 0 (0%)<br />
