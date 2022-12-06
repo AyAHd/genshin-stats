@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Poulet mariné aux fleurs sucrantes</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>782</td>
+    <td>783</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1493 (rate -77)</td>
+    <td>2153 (rate -67)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>868046 (rate -89)</td>
+    <td>1048758 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 720 (49%)<br />
-      Other: 420 (28%)<br />
-      Daily Activity: 240 (16%)<br />
-      Mail: 90 (6%)<br />
+      Events: 720 (34%)<br />
+      Mail: 690 (33%)<br />
+      Other: 420 (19%)<br />
+      Daily Activity: 300 (13%)<br />
       Adventure: 23 (1%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
