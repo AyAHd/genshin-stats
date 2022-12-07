@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>783</td>
+    <td>784</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -306,7 +306,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (14)<br />
+      Shougun (14)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
@@ -329,7 +329,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (71)<br />
+      Shougun (71)<br />
     </td>
   </tr>
   <tr>
@@ -340,7 +340,7 @@
         ,
         height="18"
       />
-      Hu Tao (165662)<br />
+      Hutao (165662)<br />
     </td>
   </tr>
   <tr>
