@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>784</td>
+    <td>785</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>77</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1674</td>
+    <td>1675</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -306,7 +306,7 @@
         ,
         height="18"
       />
-      Shougun (14)<br />
+      Raiden Shogun (14)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
@@ -329,7 +329,7 @@
         ,
         height="18"
       />
-      Shougun (71)<br />
+      Raiden Shogun (71)<br />
     </td>
   </tr>
   <tr>
@@ -340,7 +340,7 @@
         ,
         height="18"
       />
-      Hutao (165662)<br />
+      Hu Tao (165662)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3018 (rate -54)</td>
+    <td>3105 (rate -53)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1155283 (rate -85)</td>
+    <td>1256078 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1490 (50%)<br />
-      Events: 720 (24%)<br />
-      Other: 420 (14%)<br />
-      Daily Activity: 360 (12%)<br />
-      Adventure: 28 (0%)<br />
+      Mail: 1490 (48%)<br />
+      Events: 740 (24%)<br />
+      Daily Activity: 420 (14%)<br />
+      Other: 420 (13%)<br />
+      Adventure: 35 (1%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
     </td>
