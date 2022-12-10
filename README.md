@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3105 (rate -53)</td>
+    <td>3365 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1256078 (rate -84)</td>
+    <td>1360453 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1490 (48%)<br />
-      Events: 740 (24%)<br />
-      Daily Activity: 420 (14%)<br />
-      Other: 420 (13%)<br />
+      Mail: 1690 (51%)<br />
+      Events: 740 (22%)<br />
+      Daily Activity: 480 (14%)<br />
+      Other: 420 (12%)<br />
       Adventure: 35 (1%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
