@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>785</td>
+    <td>786</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3365 (rate -49)</td>
+    <td>3761 (rate -43)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1360453 (rate -82)</td>
+    <td>1553830 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1690 (51%)<br />
-      Events: 740 (22%)<br />
-      Daily Activity: 480 (14%)<br />
-      Other: 420 (12%)<br />
-      Adventure: 35 (1%)<br />
-      Quests: 0 (0%)<br />
+      Mail: 1910 (51%)<br />
+      Events: 740 (20%)<br />
+      Daily Activity: 540 (15%)<br />
+      Other: 428 (11%)<br />
+      Adventure: 103 (2%)<br />
+      Quests: 40 (1%)<br />
       Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
