@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Boulettes de radis frites</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>565</td>
+    <td>567</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>786</td>
+    <td>787</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>78</td>
+    <td>84</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1675</td>
+    <td>1684</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1266</td>
+    <td>1272</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>327</td>
+    <td>328</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>62</td>
+    <td>63</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>21.0%</td>
+          <td>24.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3761 (rate -43)</td>
+    <td>4033 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1553830 (rate -80)</td>
+    <td>1801617 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1910 (51%)<br />
-      Events: 740 (20%)<br />
-      Daily Activity: 540 (15%)<br />
+      Mail: 2110 (53%)<br />
+      Events: 740 (19%)<br />
+      Daily Activity: 600 (15%)<br />
       Other: 428 (11%)<br />
-      Adventure: 103 (2%)<br />
-      Quests: 40 (1%)<br />
+      Adventure: 115 (2%)<br />
+      Quests: 40 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
