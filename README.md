@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Boulettes de radis frites</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>567</td>
+    <td>568</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>787</td>
+    <td>789</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1684</td>
+    <td>1685</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>328</td>
+    <td>329</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>24.0%</td>
+          <td>25.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4033 (rate -39)</td>
+    <td>4293 (rate -35)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1801617 (rate -77)</td>
+    <td>1924204 (rate -75)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2110 (53%)<br />
-      Events: 740 (19%)<br />
-      Daily Activity: 600 (15%)<br />
-      Other: 428 (11%)<br />
+      Mail: 2310 (54%)<br />
+      Events: 740 (18%)<br />
+      Daily Activity: 660 (16%)<br />
+      Other: 428 (10%)<br />
       Adventure: 115 (2%)<br />
       Quests: 40 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
