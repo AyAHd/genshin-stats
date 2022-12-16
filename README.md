@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>571</td>
+    <td>579</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>791</td>
+    <td>792</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1685</td>
+    <td>1689</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1272</td>
+    <td>1274</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>329</td>
+    <td>330</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -274,15 +274,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>38</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>19</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Xingqiu (16)<br />
+      Kuki Shinobu (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        ,
+        height="18"
+      />
+      Traveler (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (14)<br />
+      Raiden Shogun (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yelan (13)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (13)<br />
+      Kaedehara Kazuha (9)<br />
     </td>
   </tr>
   <tr>
@@ -329,51 +329,51 @@
         ,
         height="18"
       />
-      Raiden Shogun (71)<br />
+      Raiden Shogun (51)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Hu Tao (165662)<br />
+      Raiden Shogun (131444)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
-      Yoimiya (194102)<br />
+      Kamisato Ayato (39756)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Bennett (63)<br />
+      Raiden Shogun (23)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
       />
-      Bennett (180)<br />
+      Traveler (38)<br />
     </td>
   </tr>
 </table>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4773 (rate -28)</td>
+    <td>5702 (rate -14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2196463 (rate -72)</td>
+    <td>2994399 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2310 (49%)<br />
-      Events: 980 (21%)<br />
-      Daily Activity: 780 (17%)<br />
-      Other: 428 (8%)<br />
-      Adventure: 175 (3%)<br />
-      Quests: 100 (2%)<br />
-      Spiral Abyss: 0 (0%)<br />
+      Mail: 2310 (41%)<br />
+      Events: 980 (18%)<br />
+      Daily Activity: 840 (15%)<br />
+      Spiral Abyss: 600 (11%)<br />
+      Other: 428 (7%)<br />
+      Adventure: 384 (6%)<br />
+      Quests: 160 (2%)<br />
     </td>
   </tr>
 </table>
