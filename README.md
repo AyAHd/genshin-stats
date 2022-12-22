@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>585</td>
+    <td>586</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>796</td>
+    <td>798</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>84</td>
+    <td>85</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1689</td>
+    <td>1691</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1274</td>
+    <td>1275</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6652 (rate 0)</td>
+    <td>6736 (rate 0)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3866873 (rate -51)</td>
+    <td>4071806 (rate -48)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2330 (36%)<br />
+      Mail: 2350 (35%)<br />
       Events: 1520 (23%)<br />
-      Daily Activity: 1090 (17%)<br />
+      Daily Activity: 1150 (18%)<br />
       Spiral Abyss: 600 (9%)<br />
-      Adventure: 524 (7%)<br />
+      Adventure: 528 (7%)<br />
       Other: 428 (6%)<br />
       Quests: 160 (2%)<br />
     </td>
