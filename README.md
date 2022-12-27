@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Tofu aux amandes</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>588</td>
+    <td>589</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>802</td>
+    <td>804</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
       </table>
     </td>
@@ -302,17 +302,17 @@
       />
       Kuki Shinobu (14)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayato (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7608 (rate 13)</td>
+    <td>7808 (rate 16)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5171861 (rate -35)</td>
+    <td>5310849 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2370 (32%)<br />
-      Events: 1520 (20%)<br />
-      Daily Activity: 1390 (19%)<br />
+      Mail: 2370 (31%)<br />
+      Events: 1640 (22%)<br />
+      Daily Activity: 1450 (18%)<br />
       Spiral Abyss: 1200 (15%)<br />
-      Adventure: 540 (7%)<br />
+      Adventure: 560 (7%)<br />
       Other: 428 (5%)<br />
       Quests: 160 (2%)<br />
     </td>
