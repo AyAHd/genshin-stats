@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Leçons du héros</td>
   </tr>
 </table>
 
@@ -302,17 +302,17 @@
       />
       Kuki Shinobu (14)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
       Kamisato Ayato (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7808 (rate 16)</td>
+    <td>7908 (rate 18)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5310849 (rate -33)</td>
+    <td>5456437 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2370 (31%)<br />
-      Events: 1640 (22%)<br />
-      Daily Activity: 1450 (18%)<br />
+      Mail: 2370 (30%)<br />
+      Events: 1640 (21%)<br />
+      Daily Activity: 1510 (20%)<br />
       Spiral Abyss: 1200 (15%)<br />
-      Adventure: 560 (7%)<br />
+      Adventure: 600 (7%)<br />
       Other: 428 (5%)<br />
       Quests: 160 (2%)<br />
     </td>
