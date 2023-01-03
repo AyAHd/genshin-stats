@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>592</td>
+    <td>593</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>808</td>
+    <td>810</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>85</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1692</td>
+    <td>1705</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1275</td>
+    <td>1280</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>63</td>
+    <td>65</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>25.0%</td>
+          <td>26.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
       </table>
     </td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>699</td>
+    <td>700</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -302,17 +302,17 @@
       />
       Kuki Shinobu (14)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (11)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
       Kamisato Ayato (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1136 (rate -86)</td>
+    <td>1201 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1821390 (rate -68)</td>
+    <td>1954710 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 900 (80%)<br />
-      Daily Activity: 120 (11%)<br />
-      Other: 60 (5%)<br />
-      Adventure: 56 (4%)<br />
+      Events: 900 (75%)<br />
+      Daily Activity: 180 (15%)<br />
+      Adventure: 61 (6%)<br />
+      Other: 60 (4%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
       Mail: 0 (0%)<br />
