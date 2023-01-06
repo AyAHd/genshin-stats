@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Poulet mariné aux fleurs sucrantes</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1826 (rate -77)</td>
+    <td>1898 (rate -76)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2557463 (rate -55)</td>
+    <td>2658932 (rate -54)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1380 (76%)<br />
-      Daily Activity: 300 (17%)<br />
-      Adventure: 66 (3%)<br />
+      Events: 1380 (73%)<br />
+      Daily Activity: 360 (19%)<br />
+      Adventure: 78 (4%)<br />
       Other: 60 (3%)<br />
       Mail: 20 (1%)<br />
       Quests: 0 (0%)<br />
