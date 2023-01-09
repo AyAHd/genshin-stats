@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -274,15 +274,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>60</td>
+    <td>61</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>24</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>14</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -294,87 +294,27 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (14)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (11)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (11)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
-        ,
-        height="18"
-      />
-      Venti (9)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (43)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (105683)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (89306)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (21)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (69)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -382,22 +322,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2025 (rate -75)</td>
+    <td>2717 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2834127 (rate -51)</td>
+    <td>3729383 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1380 (69%)<br />
-      Daily Activity: 480 (24%)<br />
-      Adventure: 85 (5%)<br />
+      Events: 1380 (51%)<br />
+      Spiral Abyss: 600 (23%)<br />
+      Daily Activity: 540 (20%)<br />
+      Adventure: 117 (4%)<br />
       Other: 60 (2%)<br />
       Mail: 20 (0%)<br />
       Quests: 0 (0%)<br />
-      Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
