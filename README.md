@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Yelan (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2789 (rate -65)</td>
+    <td>3216 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3826288 (rate -34)</td>
+    <td>4747375 (rate -18)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1380 (50%)<br />
-      Daily Activity: 600 (22%)<br />
-      Spiral Abyss: 600 (22%)<br />
-      Adventure: 129 (4%)<br />
-      Other: 60 (2%)<br />
-      Mail: 20 (0%)<br />
-      Quests: 0 (0%)<br />
+      Events: 1380 (43%)<br />
+      Daily Activity: 660 (21%)<br />
+      Spiral Abyss: 600 (19%)<br />
+      Adventure: 276 (9%)<br />
+      Quests: 200 (6%)<br />
+      Other: 60 (1%)<br />
+      Mail: 40 (1%)<br />
     </td>
   </tr>
 </table>
