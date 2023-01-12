@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Boulettes de radis frites</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>598</td>
+    <td>600</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>817</td>
+    <td>818</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>235</td>
+    <td>236</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>92</td>
+    <td>97</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1709</td>
+    <td>1725</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1286</td>
+    <td>1290</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>330</td>
+    <td>331</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>65</td>
+    <td>67</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>27.0%</td>
+          <td>30.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Yelan (9)<br />
+      Xingqiu (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3216 (rate -60)</td>
+    <td>4453 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4747375 (rate -18)</td>
+    <td>5982220 (rate 3)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1380 (43%)<br />
-      Daily Activity: 660 (21%)<br />
-      Spiral Abyss: 600 (19%)<br />
-      Adventure: 276 (9%)<br />
-      Quests: 200 (6%)<br />
+      Events: 1840 (42%)<br />
+      Daily Activity: 720 (17%)<br />
+      Quests: 660 (15%)<br />
+      Spiral Abyss: 600 (14%)<br />
+      Adventure: 533 (11%)<br />
       Other: 60 (1%)<br />
-      Mail: 40 (1%)<br />
+      Mail: 40 (0%)<br />
     </td>
   </tr>
 </table>
