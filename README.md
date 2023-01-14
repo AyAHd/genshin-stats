@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>820</td>
+    <td>821</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>113</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1759</td>
+    <td>1764</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1302</td>
+    <td>1303</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>335</td>
+    <td>336</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>71</td>
+    <td>73</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Yelan (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4534 (rate -44)</td>
+    <td>4609 (rate -43)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6128490 (rate 5)</td>
+    <td>6208498 (rate 6)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1840 (41%)<br />
-      Daily Activity: 780 (18%)<br />
+      Events: 1840 (40%)<br />
+      Daily Activity: 820 (18%)<br />
       Quests: 660 (15%)<br />
-      Spiral Abyss: 600 (13%)<br />
-      Adventure: 554 (12%)<br />
+      Spiral Abyss: 600 (14%)<br />
+      Adventure: 589 (12%)<br />
       Other: 60 (1%)<br />
       Mail: 40 (0%)<br />
     </td>
