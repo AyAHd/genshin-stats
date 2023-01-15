@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>821</td>
+    <td>822</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Yelan (9)<br />
+      Zhongli (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4609 (rate -43)</td>
+    <td>4669 (rate -42)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6208498 (rate 6)</td>
+    <td>6316387 (rate 8)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1840 (40%)<br />
-      Daily Activity: 820 (18%)<br />
+      Daily Activity: 880 (19%)<br />
       Quests: 660 (15%)<br />
-      Spiral Abyss: 600 (14%)<br />
+      Spiral Abyss: 600 (13%)<br />
       Adventure: 589 (12%)<br />
       Other: 60 (1%)<br />
       Mail: 40 (0%)<br />
