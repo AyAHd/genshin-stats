@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>822</td>
+    <td>823</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1303</td>
+    <td>1304</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>336</td>
+    <td>337</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Yelan (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4669 (rate -42)</td>
+    <td>4784 (rate -41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6316387 (rate 8)</td>
+    <td>6571834 (rate 13)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1840 (40%)<br />
-      Daily Activity: 880 (19%)<br />
-      Quests: 660 (15%)<br />
-      Spiral Abyss: 600 (13%)<br />
-      Adventure: 589 (12%)<br />
+      Events: 1840 (39%)<br />
+      Daily Activity: 940 (20%)<br />
+      Quests: 660 (14%)<br />
+      Adventure: 604 (13%)<br />
+      Spiral Abyss: 600 (12%)<br />
+      Mail: 80 (1%)<br />
       Other: 60 (1%)<br />
-      Mail: 40 (0%)<br />
     </td>
   </tr>
 </table>
