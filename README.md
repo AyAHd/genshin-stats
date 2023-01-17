@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
       />
-      Yelan (9)<br />
+      Traveler (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4784 (rate -41)</td>
+    <td>4864 (rate -40)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6571834 (rate 13)</td>
+    <td>6693935 (rate 15)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1840 (39%)<br />
-      Daily Activity: 940 (20%)<br />
+      Events: 1840 (38%)<br />
+      Daily Activity: 1000 (21%)<br />
       Quests: 660 (14%)<br />
-      Adventure: 604 (13%)<br />
+      Adventure: 624 (13%)<br />
       Spiral Abyss: 600 (12%)<br />
       Mail: 80 (1%)<br />
       Other: 60 (1%)<br />
