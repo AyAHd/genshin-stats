@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>3 x Leçons du héros</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>628</td>
+    <td>632</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>830</td>
+    <td>833</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>143</td>
+    <td>161</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1837</td>
+    <td>1855</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1322</td>
+    <td>1331</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>355</td>
+    <td>357</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>136</td>
+    <td>137</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>82</td>
+    <td>86</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>44.0%</td>
+          <td>48.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -274,107 +274,47 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td>Total Wins</td>
     <td>16</td>
   </tr>
   <tr>
+    <td>Total Wins</td>
+    <td>11</td>
+  </tr>
+  <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>12-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (16)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (13)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-        ,
-        height="18"
-      />
-      Traveler (9)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (48)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (96684)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (119959)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (21)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (99)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -382,22 +322,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7293 (rate -10)</td>
+    <td>8216 (rate 1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8864318 (rate 52)</td>
+    <td>9621391 (rate 65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1920 (27%)<br />
-      Adventure: 1421 (20%)<br />
-      Daily Activity: 1360 (19%)<br />
-      Quests: 1170 (16%)<br />
-      Mail: 760 (10%)<br />
-      Spiral Abyss: 600 (8%)<br />
-      Other: 62 (0%)<br />
+      Events: 1920 (24%)<br />
+      Adventure: 1705 (21%)<br />
+      Daily Activity: 1420 (18%)<br />
+      Quests: 1170 (14%)<br />
+      Spiral Abyss: 1150 (13%)<br />
+      Mail: 760 (9%)<br />
+      Other: 91 (1%)<br />
     </td>
   </tr>
 </table>
