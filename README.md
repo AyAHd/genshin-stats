@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>3 x Tofu aux amandes</td>
   </tr>
 </table>
 
@@ -294,27 +294,87 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      Yaoyao (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (8)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (8)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (8)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (31)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (111304)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      Yaoyao (72375)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (14)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      Yaoyao (57)<br />
+    </td>
   </tr>
 </table>
 
@@ -322,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8216 (rate 1)</td>
+    <td>8276 (rate 1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9621391 (rate 65)</td>
+    <td>9720366 (rate 67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1920 (24%)<br />
       Adventure: 1705 (21%)<br />
-      Daily Activity: 1420 (18%)<br />
+      Daily Activity: 1480 (18%)<br />
       Quests: 1170 (14%)<br />
       Spiral Abyss: 1150 (13%)<br />
       Mail: 760 (9%)<br />
