@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Leçons du héros</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>834</td>
+    <td>835</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>237</td>
+    <td>252</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -302,11 +302,11 @@
       />
       Yaoyao (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Nahida (8)<br />
+      Xingqiu (8)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
@@ -314,11 +314,11 @@
       />
       Raiden Shogun (8)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kuki Shinobu (8)<br />
+      Nahida (8)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8336 (rate 2)</td>
+    <td>8396 (rate 3)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9821541 (rate 69)</td>
+    <td>9930889 (rate 71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1920 (24%)<br />
+      Events: 1920 (23%)<br />
       Adventure: 1705 (21%)<br />
-      Daily Activity: 1540 (18%)<br />
-      Quests: 1170 (14%)<br />
+      Daily Activity: 1600 (20%)<br />
+      Quests: 1170 (13%)<br />
       Spiral Abyss: 1150 (13%)<br />
       Mail: 760 (9%)<br />
       Other: 91 (1%)<br />
