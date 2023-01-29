@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>835</td>
+    <td>836</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -302,11 +302,11 @@
       />
       Yaoyao (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Xingqiu (8)<br />
+      Kuki Shinobu (8)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8396 (rate 3)</td>
+    <td>8456 (rate 4)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9930889 (rate 71)</td>
+    <td>10029864 (rate 72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1920 (23%)<br />
       Adventure: 1705 (21%)<br />
-      Daily Activity: 1600 (20%)<br />
-      Quests: 1170 (13%)<br />
+      Daily Activity: 1660 (20%)<br />
+      Quests: 1170 (14%)<br />
       Spiral Abyss: 1150 (13%)<br />
-      Mail: 760 (9%)<br />
+      Mail: 760 (8%)<br />
       Other: 91 (1%)<br />
     </td>
   </tr>
