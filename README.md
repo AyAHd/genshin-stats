@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>836</td>
+    <td>838</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>161</td>
+    <td>162</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1855</td>
+    <td>1856</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -278,19 +278,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>16</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-2</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>33</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -302,23 +302,23 @@
       />
       Yaoyao (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kuki Shinobu (8)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (8)<br />
+      Xingqiu (8)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (8)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (8)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8456 (rate 4)</td>
+    <td>8588 (rate 5)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>10029864 (rate 72)</td>
+    <td>10258496 (rate 76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1920 (23%)<br />
-      Adventure: 1705 (21%)<br />
-      Daily Activity: 1660 (20%)<br />
-      Quests: 1170 (14%)<br />
-      Spiral Abyss: 1150 (13%)<br />
-      Mail: 760 (8%)<br />
+      Adventure: 1707 (20%)<br />
+      Daily Activity: 1700 (20%)<br />
+      Spiral Abyss: 1200 (14%)<br />
+      Quests: 1170 (13%)<br />
+      Mail: 800 (9%)<br />
       Other: 91 (1%)<br />
     </td>
   </tr>
