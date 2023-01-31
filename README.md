@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yaoyao (9)<br />
+      Raiden Shogun (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (8)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (8)<br />
+      Xingqiu (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Kuki Shinobu (8)<br />
+      Kuki Shinobu (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (11)<br />
     </td>
   </tr>
   <tr>
@@ -329,7 +329,7 @@
         ,
         height="18"
       />
-      Nahida (31)<br />
+      Nahida (34)<br />
     </td>
   </tr>
   <tr>
@@ -347,11 +347,11 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Yaoyao (72375)<br />
+      Kuki Shinobu (75792)<br />
     </td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@
         ,
         height="18"
       />
-      Xingqiu (14)<br />
+      Xingqiu (22)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8588 (rate 5)</td>
+    <td>8650 (rate 6)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>10258496 (rate 76)</td>
+    <td>10354068 (rate 78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1920 (23%)<br />
-      Adventure: 1707 (20%)<br />
-      Daily Activity: 1700 (20%)<br />
-      Spiral Abyss: 1200 (14%)<br />
+      Daily Activity: 1760 (21%)<br />
+      Adventure: 1709 (20%)<br />
+      Spiral Abyss: 1200 (13%)<br />
       Quests: 1170 (13%)<br />
       Mail: 800 (9%)<br />
       Other: 91 (1%)<br />
