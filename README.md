@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>252</td>
+    <td>281</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1856</td>
+    <td>1857</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>42</td>
+    <td>46</td>
   </tr>
 </table>
 
@@ -302,11 +302,11 @@
       />
       Raiden Shogun (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Xingqiu (11)<br />
+      Nahida (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Nahida (11)<br />
+      Xingqiu (11)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8650 (rate 6)</td>
+    <td>22 (rate -99)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>10354068 (rate 78)</td>
+    <td>39961 (rate -99)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1920 (23%)<br />
-      Daily Activity: 1760 (21%)<br />
-      Adventure: 1709 (20%)<br />
-      Spiral Abyss: 1200 (13%)<br />
-      Quests: 1170 (13%)<br />
-      Mail: 800 (9%)<br />
-      Other: 91 (1%)<br />
+      Other: 20 (91%)<br />
+      Adventure: 2 (9%)<br />
+      Events: 0 (0%)<br />
+      Quests: 0 (0%)<br />
+      Daily Activity: 0 (0%)<br />
+      Spiral Abyss: 0 (0%)<br />
+      Mail: 0 (0%)<br />
     </td>
   </tr>
 </table>
