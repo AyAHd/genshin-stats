@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>838</td>
+    <td>840</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>281</td>
+    <td>272</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>162</td>
+    <td>163</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1331</td>
+    <td>1332</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>357</td>
+    <td>358</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>48.0%</td>
+          <td>49.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -296,11 +296,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Raiden Shogun (11)<br />
+      Xingqiu (11)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
@@ -308,17 +308,17 @@
       />
       Nahida (11)<br />
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (11)<br />
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (11)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (11)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>22 (rate -99)</td>
+    <td>102 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>39961 (rate -99)</td>
+    <td>180227 (rate -98)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 20 (91%)<br />
-      Adventure: 2 (9%)<br />
+      Daily Activity: 60 (59%)<br />
+      Other: 40 (40%)<br />
+      Adventure: 2 (1%)<br />
       Events: 0 (0%)<br />
       Quests: 0 (0%)<br />
-      Daily Activity: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
       Mail: 0 (0%)<br />
     </td>
