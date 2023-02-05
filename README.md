@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Poulet mariné aux fleurs sucrantes</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>842</td>
+    <td>843</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -274,107 +274,47 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>62</td>
+    <td>63</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>21</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>14</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>12-1</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (11)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (11)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (11)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (11)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (34)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (111304)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (75792)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (22)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      Yaoyao (57)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -382,19 +322,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1298 (rate -85)</td>
+    <td>1358 (rate -84)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1872853 (rate -82)</td>
+    <td>2287663 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 910 (71%)<br />
-      Daily Activity: 180 (14%)<br />
+      Events: 910 (68%)<br />
+      Daily Activity: 240 (18%)<br />
       Mail: 100 (7%)<br />
-      Other: 80 (6%)<br />
+      Other: 80 (5%)<br />
       Adventure: 28 (2%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
