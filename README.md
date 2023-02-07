@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>843</td>
+    <td>845</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1860</td>
+    <td>1861</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1335</td>
+    <td>1336</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>358</td>
+    <td>359</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
       </table>
     </td>
@@ -296,17 +296,17 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (10)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (10)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (10)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
@@ -358,11 +358,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kuki Shinobu (13)<br />
+      Bennett (13)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1423 (rate -83)</td>
+    <td>1895 (rate -78)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2588940 (rate -75)</td>
+    <td>2994206 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 910 (64%)<br />
-      Daily Activity: 300 (22%)<br />
-      Mail: 100 (7%)<br />
-      Other: 80 (5%)<br />
-      Adventure: 33 (2%)<br />
+      Events: 1310 (70%)<br />
+      Daily Activity: 360 (19%)<br />
+      Mail: 100 (5%)<br />
+      Other: 80 (4%)<br />
+      Adventure: 45 (2%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
     </td>
