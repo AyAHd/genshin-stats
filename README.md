@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>633</td>
+    <td>635</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>845</td>
+    <td>847</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>166</td>
+    <td>171</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1861</td>
+    <td>1877</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1336</td>
+    <td>1341</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>359</td>
+    <td>363</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>137</td>
+    <td>138</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>86</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>49.0%</td>
+          <td>51.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -296,17 +296,17 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (10)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (10)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (10)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
@@ -314,11 +314,11 @@
       />
       Nahida (7)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
       />
-      Yaoyao (6)<br />
+      Traveler (6)<br />
     </td>
   </tr>
   <tr>
@@ -358,11 +358,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Bennett (13)<br />
+      Kuki Shinobu (13)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1980 (rate -77)</td>
+    <td>2177 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3121287 (rate -70)</td>
+    <td>3432782 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1310 (67%)<br />
-      Daily Activity: 420 (21%)<br />
-      Mail: 100 (5%)<br />
-      Other: 80 (4%)<br />
-      Adventure: 70 (3%)<br />
+      Events: 1310 (61%)<br />
+      Daily Activity: 480 (23%)<br />
+      Adventure: 207 (9%)<br />
+      Mail: 100 (4%)<br />
+      Other: 80 (3%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
     </td>
