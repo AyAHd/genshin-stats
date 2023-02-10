@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>847</td>
+    <td>848</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1877</td>
+    <td>1879</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -358,11 +358,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kuki Shinobu (13)<br />
+      Bennett (13)<br />
     </td>
   </tr>
   <tr>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2177 (rate -75)</td>
+    <td>2241 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3432782 (rate -67)</td>
+    <td>3562679 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1310 (61%)<br />
-      Daily Activity: 480 (23%)<br />
-      Adventure: 207 (9%)<br />
+      Events: 1310 (59%)<br />
+      Daily Activity: 540 (25%)<br />
+      Adventure: 211 (9%)<br />
       Mail: 100 (4%)<br />
       Other: 80 (3%)<br />
       Quests: 0 (0%)<br />
