@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Boulettes de radis frites</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>849</td>
+    <td>850</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -296,17 +296,17 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (10)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (10)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (10)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
@@ -314,11 +314,11 @@
       />
       Nahida (7)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Traveler (6)<br />
+      Yaoyao (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,17 +382,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2323 (rate -73)</td>
+    <td>2383 (rate -72)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3662639 (rate -65)</td>
+    <td>3731515 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1310 (57%)<br />
-      Daily Activity: 600 (26%)<br />
+      Events: 1310 (55%)<br />
+      Daily Activity: 660 (28%)<br />
       Adventure: 213 (9%)<br />
       Mail: 120 (5%)<br />
       Other: 80 (3%)<br />
