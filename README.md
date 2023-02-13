@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Boulettes de radis frites</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -314,11 +314,11 @@
       />
       Nahida (7)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
       />
-      Yaoyao (6)<br />
+      Traveler (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2383 (rate -72)</td>
+    <td>2500 (rate -71)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3731515 (rate -64)</td>
+    <td>4066850 (rate -61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1310 (55%)<br />
-      Daily Activity: 660 (28%)<br />
-      Adventure: 213 (9%)<br />
-      Mail: 120 (5%)<br />
+      Events: 1310 (53%)<br />
+      Daily Activity: 720 (29%)<br />
+      Adventure: 240 (10%)<br />
+      Mail: 120 (4%)<br />
       Other: 80 (3%)<br />
-      Quests: 0 (0%)<br />
+      Quests: 30 (1%)<br />
       Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
