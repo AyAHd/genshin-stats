@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>635</td>
+    <td>636</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>850</td>
+    <td>852</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>272</td>
+    <td>273</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>171</td>
+    <td>172</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1880</td>
+    <td>1886</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1341</td>
+    <td>1343</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>705</td>
+    <td>706</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -278,29 +278,23 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>20</td>
+    <td>44</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>10</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (10)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
@@ -308,17 +302,23 @@
       />
       Kuki Shinobu (10)<br />
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (10)<br />
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (7)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Traveler (6)<br />
+      Yaoyao (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2500 (rate -71)</td>
+    <td>3191 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4066850 (rate -61)</td>
+    <td>4498622 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1310 (53%)<br />
-      Daily Activity: 720 (29%)<br />
-      Adventure: 240 (10%)<br />
-      Mail: 120 (4%)<br />
-      Other: 80 (3%)<br />
-      Quests: 30 (1%)<br />
-      Spiral Abyss: 0 (0%)<br />
+      Events: 1310 (42%)<br />
+      Daily Activity: 780 (25%)<br />
+      Spiral Abyss: 600 (19%)<br />
+      Adventure: 271 (9%)<br />
+      Mail: 120 (3%)<br />
+      Other: 80 (2%)<br />
+      Quests: 30 (0%)<br />
     </td>
   </tr>
 </table>
