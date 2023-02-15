@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>636</td>
+    <td>637</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>852</td>
+    <td>853</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>172</td>
+    <td>173</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1886</td>
+    <td>1889</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1343</td>
+    <td>1345</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>90</td>
+    <td>91</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>706</td>
+    <td>707</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (10)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (10)<br />
+      Raiden Shogun (18)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (18)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (7)<br />
+      Nahida (15)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Yaoyao (6)<br />
+      Xingqiu (12)<br />
     </td>
   </tr>
   <tr>
@@ -329,51 +329,51 @@
         ,
         height="18"
       />
-      Yelan (21)<br />
+      Yelan (36)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Raiden Shogun (128745)<br />
+      Hu Tao (140558)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yaoyao (39294)<br />
+      Raiden Shogun (147031)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kuki Shinobu (13)<br />
+      Xingqiu (34)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Bennett (30)<br />
+      Yelan (112)<br />
     </td>
   </tr>
 </table>
@@ -382,17 +382,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3191 (rate -63)</td>
+    <td>3251 (rate -62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4498622 (rate -57)</td>
+    <td>4568012 (rate -56)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1310 (42%)<br />
-      Daily Activity: 780 (25%)<br />
+      Events: 1310 (41%)<br />
+      Daily Activity: 840 (26%)<br />
       Spiral Abyss: 600 (19%)<br />
       Adventure: 271 (9%)<br />
       Mail: 120 (3%)<br />
