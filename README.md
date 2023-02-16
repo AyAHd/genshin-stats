@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -358,11 +358,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Xingqiu (34)<br />
+      Yelan (34)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3251 (rate -62)</td>
+    <td>3796 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4568012 (rate -56)</td>
+    <td>5035644 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1310 (41%)<br />
-      Daily Activity: 840 (26%)<br />
-      Spiral Abyss: 600 (19%)<br />
-      Adventure: 271 (9%)<br />
+      Events: 1710 (46%)<br />
+      Daily Activity: 900 (24%)<br />
+      Spiral Abyss: 600 (16%)<br />
+      Adventure: 296 (8%)<br />
+      Other: 140 (3%)<br />
       Mail: 120 (3%)<br />
-      Other: 80 (2%)<br />
       Quests: 30 (0%)<br />
     </td>
   </tr>
