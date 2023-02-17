@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>853</td>
+    <td>855</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1345</td>
+    <td>1346</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>363</td>
+    <td>364</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>46</td>
+    <td>45</td>
   </tr>
 </table>
 
@@ -382,17 +382,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3796 (rate -56)</td>
+    <td>3856 (rate -55)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5035644 (rate -51)</td>
+    <td>5144239 (rate -50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1710 (46%)<br />
-      Daily Activity: 900 (24%)<br />
+      Events: 1710 (45%)<br />
+      Daily Activity: 960 (25%)<br />
       Spiral Abyss: 600 (16%)<br />
       Adventure: 296 (8%)<br />
       Other: 140 (3%)<br />
