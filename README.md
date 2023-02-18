@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -358,11 +358,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Yelan (34)<br />
+      Xingqiu (34)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3856 (rate -55)</td>
+    <td>4273 (rate -50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5144239 (rate -50)</td>
+    <td>5473536 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1710 (45%)<br />
-      Daily Activity: 960 (25%)<br />
-      Spiral Abyss: 600 (16%)<br />
-      Adventure: 296 (8%)<br />
+      Events: 1710 (41%)<br />
+      Daily Activity: 1020 (24%)<br />
+      Spiral Abyss: 600 (15%)<br />
+      Mail: 440 (10%)<br />
+      Adventure: 333 (7%)<br />
       Other: 140 (3%)<br />
-      Mail: 120 (3%)<br />
       Quests: 30 (0%)<br />
     </td>
   </tr>
