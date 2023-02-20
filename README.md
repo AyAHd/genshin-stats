@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Toast du pêcheur</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>639</td>
+    <td>641</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>857</td>
+    <td>858</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>174</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1895</td>
+    <td>1901</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1348</td>
+    <td>1349</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>364</td>
+    <td>366</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,11 +64,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>93</td>
+    <td>95</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
 </table>
 
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>51.0%</td>
+          <td>52.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>707</td>
+    <td>708</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4338 (rate -50)</td>
+    <td>4535 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5570716 (rate -46)</td>
+    <td>5957773 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1710 (40%)<br />
-      Daily Activity: 1080 (25%)<br />
+      Events: 1710 (38%)<br />
+      Daily Activity: 1140 (26%)<br />
       Spiral Abyss: 600 (14%)<br />
-      Mail: 440 (11%)<br />
-      Adventure: 338 (7%)<br />
+      Mail: 440 (9%)<br />
+      Adventure: 415 (9%)<br />
       Other: 140 (3%)<br />
-      Quests: 30 (0%)<br />
+      Quests: 90 (1%)<br />
     </td>
   </tr>
 </table>
