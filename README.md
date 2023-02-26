@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>3 x Tofu aux amandes</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>862</td>
+    <td>864</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1904</td>
+    <td>1905</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1349</td>
+    <td>1351</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5298 (rate -39)</td>
+    <td>5358 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6844407 (rate -34)</td>
+    <td>6931888 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 2110 (40%)<br />
-      Daily Activity: 1440 (28%)<br />
+      Daily Activity: 1500 (28%)<br />
       Spiral Abyss: 600 (12%)<br />
-      Adventure: 458 (8%)<br />
+      Adventure: 458 (9%)<br />
       Mail: 440 (8%)<br />
-      Other: 160 (3%)<br />
+      Other: 160 (2%)<br />
       Quests: 90 (1%)<br />
     </td>
   </tr>
