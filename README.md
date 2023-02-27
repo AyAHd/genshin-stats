@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Tofu aux amandes</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>641</td>
+    <td>642</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>864</td>
+    <td>865</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>176</td>
+    <td>178</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1905</td>
+    <td>1909</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1351</td>
+    <td>1352</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>366</td>
+    <td>367</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>96</td>
+    <td>97</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>52.0%</td>
+          <td>53.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5358 (rate -38)</td>
+    <td>5461 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6931888 (rate -33)</td>
+    <td>7133528 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2110 (40%)<br />
-      Daily Activity: 1500 (28%)<br />
-      Spiral Abyss: 600 (12%)<br />
-      Adventure: 458 (9%)<br />
+      Events: 2110 (39%)<br />
+      Daily Activity: 1560 (29%)<br />
+      Spiral Abyss: 600 (11%)<br />
+      Adventure: 501 (10%)<br />
       Mail: 440 (8%)<br />
       Other: 160 (2%)<br />
       Quests: 90 (1%)<br />
