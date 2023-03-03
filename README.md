@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>866</td>
+    <td>868</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -274,17 +274,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>660 (rate -88)</td>
+    <td>720 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>67319 (rate -99)</td>
+    <td>139935 (rate -98)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 600 (91%)<br />
-      Daily Activity: 60 (9%)<br />
+      Mail: 600 (84%)<br />
+      Daily Activity: 120 (16%)<br />
       Events: 0 (0%)<br />
       Adventure: 0 (0%)<br />
       Quests: 0 (0%)<br />
