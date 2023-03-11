@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>875</td>
+    <td>876</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1910</td>
+    <td>1912</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>367</td>
+    <td>368</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -270,25 +270,73 @@
   </tr>
 </table>
 
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>65</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>11-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
+  </tr>
+</table>
+
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1162 (rate -78)</td>
+    <td>2644 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>637329 (rate -91)</td>
+    <td>2276605 (rate -68)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 620 (54%)<br />
-      Daily Activity: 540 (46%)<br />
-      Adventure: 2 (0%)<br />
-      Events: 0 (0%)<br />
+      Events: 940 (36%)<br />
+      Mail: 640 (25%)<br />
+      Daily Activity: 600 (22%)<br />
+      Spiral Abyss: 450 (17%)<br />
+      Adventure: 14 (0%)<br />
       Quests: 0 (0%)<br />
-      Spiral Abyss: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
