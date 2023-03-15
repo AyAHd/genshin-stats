@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>879</td>
+    <td>880</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -278,19 +278,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>10</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>9</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>27</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -300,25 +300,25 @@
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Raiden Shogun (11)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (8)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
       />
       Tighnari (6)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (6)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      Yaoyao (6)<br />
     </td>
   </tr>
   <tr>
@@ -329,7 +329,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (24)<br />
+      Raiden Shogun (27)<br />
     </td>
   </tr>
   <tr>
@@ -347,11 +347,11 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Tighnari (32451)<br />
+      Raiden Shogun (54305)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2824 (rate -48)</td>
+    <td>3034 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2498937 (rate -65)</td>
+    <td>2786112 (rate -61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 940 (34%)<br />
-      Daily Activity: 780 (28%)<br />
-      Mail: 640 (23%)<br />
-      Spiral Abyss: 450 (15%)<br />
+      Events: 940 (31%)<br />
+      Daily Activity: 840 (28%)<br />
+      Mail: 640 (22%)<br />
+      Spiral Abyss: 600 (19%)<br />
       Adventure: 14 (0%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
