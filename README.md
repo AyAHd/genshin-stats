@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>880</td>
+    <td>881</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -300,13 +300,13 @@
         ,
         height="18"
       />
-      Raiden Shogun (11)<br />
+      Raiden Shogun (12)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (8)<br />
+      Nahida (9)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
@@ -314,11 +314,11 @@
       />
       Kuki Shinobu (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Tighnari (6)<br />
+      Yae Miko (6)<br />
     </td>
   </tr>
   <tr>
@@ -329,7 +329,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (27)<br />
+      Raiden Shogun (29)<br />
     </td>
   </tr>
   <tr>
@@ -351,7 +351,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (54305)<br />
+      Raiden Shogun (75974)<br />
     </td>
   </tr>
   <tr>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3034 (rate -45)</td>
+    <td>3094 (rate -43)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2786112 (rate -61)</td>
+    <td>2855075 (rate -60)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 940 (31%)<br />
-      Daily Activity: 840 (28%)<br />
-      Mail: 640 (22%)<br />
+      Daily Activity: 900 (30%)<br />
+      Mail: 640 (20%)<br />
       Spiral Abyss: 600 (19%)<br />
       Adventure: 14 (0%)<br />
       Quests: 0 (0%)<br />
