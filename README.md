@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>881</td>
+    <td>882</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -308,17 +308,17 @@
       />
       Nahida (9)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
-      Kuki Shinobu (6)<br />
+      Kamisato Ayato (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Yae Miko (6)<br />
+      Yaoyao (6)<br />
     </td>
   </tr>
   <tr>
@@ -382,17 +382,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3094 (rate -43)</td>
+    <td>3154 (rate -42)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2855075 (rate -60)</td>
+    <td>2927294 (rate -59)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 940 (31%)<br />
-      Daily Activity: 900 (30%)<br />
+      Daily Activity: 960 (31%)<br />
+      Events: 940 (30%)<br />
       Mail: 640 (20%)<br />
       Spiral Abyss: 600 (19%)<br />
       Adventure: 14 (0%)<br />
