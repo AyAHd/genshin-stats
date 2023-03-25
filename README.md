@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Leçons du héros</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>889</td>
+    <td>890</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,11 +314,11 @@
       />
       Raiden Shogun (7)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Yelan (7)<br />
+      Kuki Shinobu (7)<br />
     </td>
   </tr>
   <tr>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4584 (rate -16)</td>
+    <td>4644 (rate -15)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4281879 (rate -40)</td>
+    <td>4348854 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1460 (32%)<br />
-      Daily Activity: 1350 (30%)<br />
-      Spiral Abyss: 1100 (24%)<br />
+      Daily Activity: 1410 (31%)<br />
+      Spiral Abyss: 1100 (23%)<br />
       Mail: 660 (14%)<br />
       Adventure: 14 (0%)<br />
       Quests: 0 (0%)<br />
