@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>3 x Tofu aux amandes</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>642</td>
+    <td>643</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>890</td>
+    <td>891</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -302,6 +302,12 @@
       />
       Xingqiu (8)<br />
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (7)<br />
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -313,12 +319,6 @@
         height="18"
       />
       Raiden Shogun (7)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (7)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4644 (rate -15)</td>
+    <td>4709 (rate -14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4348854 (rate -39)</td>
+    <td>4415690 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1460 (32%)<br />
-      Daily Activity: 1410 (31%)<br />
+      Daily Activity: 1470 (32%)<br />
+      Events: 1460 (31%)<br />
       Spiral Abyss: 1100 (23%)<br />
       Mail: 660 (14%)<br />
-      Adventure: 14 (0%)<br />
+      Adventure: 19 (0%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
