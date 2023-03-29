@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Leçons du héros</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>893</td>
+    <td>894</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -278,19 +278,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>14</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>34</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -302,23 +302,23 @@
       />
       Xingqiu (8)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Yelan (7)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (7)<br />
+      Kuki Shinobu (7)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (7)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (7)<br />
     </td>
   </tr>
   <tr>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4829 (rate -12)</td>
+    <td>4939 (rate -10)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4548655 (rate -36)</td>
+    <td>4715830 (rate -34)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1590 (33%)<br />
-      Events: 1460 (31%)<br />
-      Spiral Abyss: 1100 (23%)<br />
+      Daily Activity: 1650 (34%)<br />
+      Events: 1460 (30%)<br />
+      Spiral Abyss: 1150 (23%)<br />
       Mail: 660 (13%)<br />
       Adventure: 19 (0%)<br />
       Quests: 0 (0%)<br />
