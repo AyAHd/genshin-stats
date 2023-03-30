@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>643</td>
+    <td>644</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>894</td>
+    <td>895</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -300,58 +300,58 @@
         ,
         height="18"
       />
-      Xingqiu (8)<br />
+      Xingqiu (13)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Kuki Shinobu (7)<br />
+      Kuki Shinobu (10)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (7)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (7)<br />
+      Raiden Shogun (10)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Nahida (23)<br />
+      Kamisato Ayaka (27)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Hu Tao (88028)<br />
+      Yelan (102411)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
-      Raiden Shogun (60553)<br />
+      Alhaitham (141522)<br />
     </td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@
         ,
         height="18"
       />
-      Xingqiu (15)<br />
+      Xingqiu (37)<br />
     </td>
   </tr>
   <tr>
@@ -373,7 +373,7 @@
         ,
         height="18"
       />
-      Yelan (37)<br />
+      Yelan (107)<br />
     </td>
   </tr>
 </table>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4939 (rate -10)</td>
+    <td>5004 (rate -9)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4715830 (rate -34)</td>
+    <td>4793105 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1650 (34%)<br />
+      Daily Activity: 1710 (35%)<br />
       Events: 1460 (30%)<br />
-      Spiral Abyss: 1150 (23%)<br />
+      Spiral Abyss: 1150 (22%)<br />
       Mail: 660 (13%)<br />
-      Adventure: 19 (0%)<br />
+      Adventure: 24 (0%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
