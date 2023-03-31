@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -278,11 +278,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>27</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>16</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -290,7 +290,7 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>34</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -308,17 +308,17 @@
       />
       Yelan (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (10)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (10)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (10)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5004 (rate -9)</td>
+    <td>5584 (rate 1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4793105 (rate -33)</td>
+    <td>5167391 (rate -28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1710 (35%)<br />
-      Events: 1460 (30%)<br />
-      Spiral Abyss: 1150 (22%)<br />
-      Mail: 660 (13%)<br />
+      Events: 1880 (34%)<br />
+      Daily Activity: 1770 (32%)<br />
+      Spiral Abyss: 1150 (21%)<br />
+      Mail: 760 (13%)<br />
       Adventure: 24 (0%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
