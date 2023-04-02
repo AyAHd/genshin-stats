@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>644</td>
+    <td>645</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -308,17 +308,17 @@
       />
       Yelan (15)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (13)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (13)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (13)<br />
     </td>
   </tr>
   <tr>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>365 (rate -93)</td>
+    <td>430 (rate -92)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>129988 (rate -97)</td>
+    <td>197043 (rate -96)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 300 (83%)<br />
-      Daily Activity: 60 (16%)<br />
-      Adventure: 5 (1%)<br />
+      Mail: 300 (70%)<br />
+      Daily Activity: 120 (28%)<br />
+      Adventure: 10 (2%)<br />
       Events: 0 (0%)<br />
       Quests: 0 (0%)<br />
       Spiral Abyss: 0 (0%)<br />
