@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Boulettes de radis frites</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>907</td>
+    <td>909</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -308,17 +308,17 @@
       />
       Nahida (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2024 (rate -63)</td>
+    <td>2684 (rate -51)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1747627 (rate -66)</td>
+    <td>1872177 (rate -63)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 660 (33%)<br />
-      Spiral Abyss: 550 (28%)<br />
-      Events: 460 (23%)<br />
-      Mail: 340 (16%)<br />
+      Mail: 940 (36%)<br />
+      Daily Activity: 720 (27%)<br />
+      Spiral Abyss: 550 (20%)<br />
+      Events: 460 (17%)<br />
       Adventure: 14 (0%)<br />
       Quests: 0 (0%)<br />
       Other: 0 (0%)<br />
