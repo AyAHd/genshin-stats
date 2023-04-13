@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Boulettes de radis frites</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>645</td>
+    <td>648</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>909</td>
+    <td>910</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>273</td>
+    <td>280</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>178</td>
+    <td>183</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1914</td>
+    <td>1924</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1353</td>
+    <td>1357</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>368</td>
+    <td>369</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>46</td>
+    <td>48</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>54.0%</td>
+          <td>55.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>712</td>
+    <td>716</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -278,11 +278,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>38</td>
+    <td>61</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>14</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -290,7 +290,7 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>35</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2684 (rate -51)</td>
+    <td>3019 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1872177 (rate -63)</td>
+    <td>2358614 (rate -54)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 940 (36%)<br />
-      Daily Activity: 720 (27%)<br />
-      Spiral Abyss: 550 (20%)<br />
-      Events: 460 (17%)<br />
-      Adventure: 14 (0%)<br />
-      Quests: 0 (0%)<br />
+      Mail: 940 (32%)<br />
+      Daily Activity: 780 (26%)<br />
+      Spiral Abyss: 600 (20%)<br />
+      Events: 460 (16%)<br />
+      Quests: 120 (3%)<br />
+      Adventure: 119 (3%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
