@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>648</td>
+    <td>653</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>910</td>
+    <td>911</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>183</td>
+    <td>184</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,19 +48,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1924</td>
+    <td>1932</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1357</td>
+    <td>1360</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>369</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>138</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>55.0%</td>
+          <td>57.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (12)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (11)<br />
+      Nahida (16)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayato (15)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Kuki Shinobu (9)<br />
+      Kuki Shinobu (14)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Raiden Shogun (14)<br />
     </td>
   </tr>
   <tr>
@@ -329,18 +329,18 @@
         ,
         height="18"
       />
-      Kamisato Ayato (40)<br />
+      Kamisato Ayato (44)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (92409)<br />
+      Raiden Shogun (117193)<br />
     </td>
   </tr>
   <tr>
@@ -351,7 +351,7 @@
         ,
         height="18"
       />
-      Kamisato Ayato (114735)<br />
+      Kamisato Ayato (161358)<br />
     </td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@
         ,
         height="18"
       />
-      Bennett (21)<br />
+      Bennett (33)<br />
     </td>
   </tr>
   <tr>
@@ -373,7 +373,7 @@
         ,
         height="18"
       />
-      Yelan (53)<br />
+      Yelan (110)<br />
     </td>
   </tr>
 </table>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3019 (rate -45)</td>
+    <td>3380 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2358614 (rate -54)</td>
+    <td>2800266 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 940 (32%)<br />
-      Daily Activity: 780 (26%)<br />
-      Spiral Abyss: 600 (20%)<br />
-      Events: 460 (16%)<br />
-      Quests: 120 (3%)<br />
-      Adventure: 119 (3%)<br />
+      Mail: 1000 (30%)<br />
+      Daily Activity: 840 (25%)<br />
+      Spiral Abyss: 600 (18%)<br />
+      Events: 460 (14%)<br />
+      Quests: 250 (7%)<br />
+      Adventure: 230 (6%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
