@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>655</td>
+    <td>656</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>913</td>
+    <td>914</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1935</td>
+    <td>1937</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -274,62 +274,62 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>67</td>
+    <td>68</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>61</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>19</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>12-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>32</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
-      Nahida (16)<br />
+      Alhaitham (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Kamisato Ayato (15)<br />
+      Venti (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kuki Shinobu (14)<br />
+      Kaedehara Kazuha (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (14)<br />
+      Raiden Shogun (6)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Kamisato Ayato (44)<br />
+      Xiao (30)<br />
     </td>
   </tr>
   <tr>
@@ -340,18 +340,18 @@
         ,
         height="18"
       />
-      Raiden Shogun (117193)<br />
+      Raiden Shogun (101197)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
-      Kamisato Ayato (161358)<br />
+      Alhaitham (75491)<br />
     </td>
   </tr>
   <tr>
@@ -362,18 +362,18 @@
         ,
         height="18"
       />
-      Bennett (33)<br />
+      Bennett (11)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yelan (110)<br />
+      Kaedehara Kazuha (20)<br />
     </td>
   </tr>
 </table>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3656 (rate -34)</td>
+    <td>4225 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3328556 (rate -35)</td>
+    <td>3995878 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1060 (29%)<br />
-      Daily Activity: 900 (25%)<br />
-      Spiral Abyss: 600 (17%)<br />
-      Events: 460 (12%)<br />
-      Quests: 370 (10%)<br />
-      Adventure: 266 (7%)<br />
+      Spiral Abyss: 1100 (27%)<br />
+      Mail: 1060 (26%)<br />
+      Daily Activity: 960 (23%)<br />
+      Events: 460 (10%)<br />
+      Quests: 370 (8%)<br />
+      Adventure: 275 (6%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
