@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Alhaitham (6)<br />
+      Raiden Shogun (8)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Venti (6)<br />
+      Kuki Shinobu (8)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      Yaoyao (6)<br />
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (6)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (6)<br />
     </td>
   </tr>
   <tr>
@@ -340,18 +340,18 @@
         ,
         height="18"
       />
-      Raiden Shogun (101197)<br />
+      Raiden Shogun (112721)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Alhaitham (75491)<br />
+      Raiden Shogun (121210)<br />
     </td>
   </tr>
   <tr>
@@ -362,18 +362,18 @@
         ,
         height="18"
       />
-      Bennett (11)<br />
+      Bennett (25)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (20)<br />
+      Bennett (41)<br />
     </td>
   </tr>
 </table>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4225 (rate -24)</td>
+    <td>4314 (rate -22)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3995878 (rate -22)</td>
+    <td>4112900 (rate -20)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1100 (27%)<br />
-      Mail: 1060 (26%)<br />
-      Daily Activity: 960 (23%)<br />
+      Spiral Abyss: 1100 (26%)<br />
+      Mail: 1080 (26%)<br />
+      Daily Activity: 1000 (23%)<br />
       Events: 460 (10%)<br />
       Quests: 370 (8%)<br />
-      Adventure: 275 (6%)<br />
+      Adventure: 304 (7%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
