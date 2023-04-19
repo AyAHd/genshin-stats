@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primo-gemme</td>
+    <td>3 x Toast du pêcheur</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>656</td>
+    <td>657</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>914</td>
+    <td>915</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>280</td>
+    <td>281</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1937</td>
+    <td>1952</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1362</td>
+    <td>1371</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>371</td>
+    <td>374</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>140</td>
+    <td>142</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>97</td>
+    <td>98</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>57.0%</td>
+          <td>60.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -278,58 +278,58 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>27</td>
+    <td>41</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-2</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>32</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (8)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Kuki Shinobu (8)<br />
+      Kuki Shinobu (12)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yaoyao (6)<br />
+      Raiden Shogun (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (6)<br />
+      Kamisato Ayato (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Xiao (30)<br />
+      Raiden Shogun (32)<br />
     </td>
   </tr>
   <tr>
@@ -340,7 +340,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (112721)<br />
+      Raiden Shogun (126099)<br />
     </td>
   </tr>
   <tr>
@@ -351,7 +351,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (121210)<br />
+      Raiden Shogun (205582)<br />
     </td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@
         ,
         height="18"
       />
-      Bennett (25)<br />
+      Bennett (46)<br />
     </td>
   </tr>
   <tr>
@@ -373,7 +373,7 @@
         ,
         height="18"
       />
-      Bennett (41)<br />
+      Bennett (105)<br />
     </td>
   </tr>
 </table>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4314 (rate -22)</td>
+    <td>4810 (rate -13)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4112900 (rate -20)</td>
+    <td>4655173 (rate -9)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1100 (26%)<br />
-      Mail: 1080 (26%)<br />
-      Daily Activity: 1000 (23%)<br />
-      Events: 460 (10%)<br />
-      Quests: 370 (8%)<br />
-      Adventure: 304 (7%)<br />
+      Spiral Abyss: 1200 (25%)<br />
+      Mail: 1080 (23%)<br />
+      Daily Activity: 1060 (23%)<br />
+      Quests: 590 (12%)<br />
+      Events: 460 (9%)<br />
+      Adventure: 420 (8%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
