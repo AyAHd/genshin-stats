@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Toast du pêcheur</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>657</td>
+    <td>659</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>915</td>
+    <td>916</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>281</td>
+    <td>282</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>184</td>
+    <td>191</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,27 +48,27 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1952</td>
+    <td>2001</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1371</td>
+    <td>1384</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>374</td>
+    <td>379</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>142</td>
+    <td>145</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>98</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>48</td>
+    <td>49</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>60.0%</td>
+          <td>64.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -308,17 +308,17 @@
       />
       Raiden Shogun (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (9)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayato (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4810 (rate -13)</td>
+    <td>5293 (rate -5)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4655173 (rate -9)</td>
+    <td>5303867 (rate 2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (25%)<br />
-      Mail: 1080 (23%)<br />
-      Daily Activity: 1060 (23%)<br />
-      Quests: 590 (12%)<br />
-      Events: 460 (9%)<br />
-      Adventure: 420 (8%)<br />
+      Spiral Abyss: 1200 (23%)<br />
+      Daily Activity: 1120 (22%)<br />
+      Mail: 1080 (21%)<br />
+      Adventure: 733 (13%)<br />
+      Quests: 700 (13%)<br />
+      Events: 460 (8%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
