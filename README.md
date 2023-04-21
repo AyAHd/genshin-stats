@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>659</td>
+    <td>669</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>916</td>
+    <td>917</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>282</td>
+    <td>285</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>191</td>
+    <td>196</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2001</td>
+    <td>2021</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1384</td>
+    <td>1396</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>379</td>
+    <td>383</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>145</td>
+    <td>146</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>100</td>
+    <td>103</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>64.0%</td>
+          <td>65.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5293 (rate -5)</td>
+    <td>6388 (rate 14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5303867 (rate 2)</td>
+    <td>6170688 (rate 19)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (23%)<br />
-      Daily Activity: 1120 (22%)<br />
-      Mail: 1080 (21%)<br />
-      Adventure: 733 (13%)<br />
-      Quests: 700 (13%)<br />
-      Events: 460 (8%)<br />
+      Spiral Abyss: 1200 (19%)<br />
+      Daily Activity: 1180 (19%)<br />
+      Mail: 1120 (18%)<br />
+      Adventure: 1088 (17%)<br />
+      Quests: 920 (14%)<br />
+      Events: 880 (13%)<br />
       Other: 0 (0%)<br />
     </td>
   </tr>
