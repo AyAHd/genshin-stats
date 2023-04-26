@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Tofu aux amandes</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>669</td>
+    <td>672</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>920</td>
+    <td>923</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>285</td>
+    <td>286</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>196</td>
+    <td>197</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2021</td>
+    <td>2022</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -60,11 +60,11 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>146</td>
+    <td>147</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>103</td>
+    <td>105</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -308,17 +308,17 @@
       />
       Raiden Shogun (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (9)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayato (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6568 (rate 17)</td>
+    <td>6730 (rate 20)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6654051 (rate 28)</td>
+    <td>6860640 (rate 32)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1360 (21%)<br />
-      Spiral Abyss: 1200 (19%)<br />
+      Daily Activity: 1480 (22%)<br />
+      Spiral Abyss: 1200 (18%)<br />
+      Adventure: 1130 (17%)<br />
       Mail: 1120 (17%)<br />
-      Adventure: 1088 (16%)<br />
-      Quests: 920 (14%)<br />
+      Quests: 920 (13%)<br />
       Events: 880 (13%)<br />
       Other: 0 (0%)<br />
     </td>
