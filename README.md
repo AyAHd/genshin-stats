@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>923</td>
+    <td>926</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -308,17 +308,17 @@
       />
       Raiden Shogun (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (9)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
       Kamisato Ayato (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6790 (rate 21)</td>
+    <td>6910 (rate 23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6928130 (rate 34)</td>
+    <td>7196661 (rate 39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1540 (23%)<br />
+      Daily Activity: 1660 (25%)<br />
       Spiral Abyss: 1200 (18%)<br />
-      Adventure: 1130 (17%)<br />
-      Mail: 1120 (17%)<br />
+      Adventure: 1130 (16%)<br />
+      Mail: 1120 (16%)<br />
       Quests: 920 (13%)<br />
       Events: 880 (12%)<br />
       Other: 0 (0%)<br />
