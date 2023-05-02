@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Conseils de l'aventurier</td>
+    <td>3 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>927</td>
+    <td>929</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -308,17 +308,17 @@
       />
       Raiden Shogun (11)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (9)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (9)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayato (9)<br />
     </td>
   </tr>
   <tr>
@@ -382,16 +382,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>60 (rate -99)</td>
+    <td>120 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>111050 (rate -98)</td>
+    <td>178386 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 60 (100%)<br />
+      Daily Activity: 120 (100%)<br />
       Events: 0 (0%)<br />
       Adventure: 0 (0%)<br />
       Quests: 0 (0%)<br />
