@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Poulet mariné aux fleurs sucrantes</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>930</td>
+    <td>932</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1398</td>
+    <td>1399</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>437 (rate -94)</td>
+    <td>502 (rate -93)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>615425 (rate -91)</td>
+    <td>755834 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 300 (69%)<br />
-      Quests: 60 (14%)<br />
-      Adventure: 37 (9%)<br />
+      Daily Activity: 360 (72%)<br />
+      Quests: 60 (12%)<br />
+      Adventure: 42 (9%)<br />
       Events: 20 (4%)<br />
-      Mail: 20 (4%)<br />
+      Mail: 20 (3%)<br />
       Spiral Abyss: 0 (0%)<br />
       Other: 0 (0%)<br />
     </td>
