@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>676</td>
+    <td>677</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>933</td>
+    <td>934</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2023</td>
+    <td>2024</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1399</td>
+    <td>1400</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -274,107 +274,47 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>68</td>
+    <td>69</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>41</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>10-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (12)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (11)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (9)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (9)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (32)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (126099)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (205582)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (46)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (105)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -382,22 +322,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>562 (rate -92)</td>
+    <td>935 (rate -87)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>870134 (rate -88)</td>
+    <td>1292393 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 420 (75%)<br />
-      Quests: 60 (11%)<br />
-      Adventure: 42 (8%)<br />
-      Events: 20 (3%)<br />
-      Mail: 20 (3%)<br />
-      Spiral Abyss: 0 (0%)<br />
-      Other: 0 (0%)<br />
+      Daily Activity: 480 (52%)<br />
+      Spiral Abyss: 300 (33%)<br />
+      Quests: 60 (6%)<br />
+      Adventure: 54 (5%)<br />
+      Events: 20 (2%)<br />
+      Mail: 20 (2%)<br />
+      Other: 1 (0%)<br />
     </td>
   </tr>
 </table>
