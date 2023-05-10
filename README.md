@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>935</td>
+    <td>936</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (6)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       Baizhu (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Nahida (3)<br />
+      Kuki Shinobu (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
         ,
         height="18"
       />
-      Alhaitham (3)<br />
+      Beidou (3)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (3)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>995 (rate -86)</td>
+    <td>1055 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1359624 (rate -81)</td>
+    <td>1476474 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 540 (55%)<br />
-      Spiral Abyss: 300 (30%)<br />
+      Daily Activity: 600 (57%)<br />
+      Spiral Abyss: 300 (29%)<br />
       Quests: 60 (6%)<br />
-      Adventure: 54 (5%)<br />
-      Events: 20 (2%)<br />
-      Mail: 20 (2%)<br />
+      Adventure: 54 (6%)<br />
+      Events: 20 (1%)<br />
+      Mail: 20 (1%)<br />
       Other: 1 (0%)<br />
     </td>
   </tr>
