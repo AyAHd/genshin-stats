@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      Baizhu (6)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      Beidou (3)<br />
+      Baizhu (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (3)<br />
+      Venti (3)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (3)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1055 (rate -85)</td>
+    <td>1165 (rate -84)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1476474 (rate -80)</td>
+    <td>1685949 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (57%)<br />
-      Spiral Abyss: 300 (29%)<br />
+      Daily Activity: 660 (57%)<br />
+      Spiral Abyss: 300 (26%)<br />
       Quests: 60 (6%)<br />
-      Adventure: 54 (6%)<br />
+      Adventure: 54 (5%)<br />
+      Mail: 40 (3%)<br />
+      Other: 31 (2%)<br />
       Events: 20 (1%)<br />
-      Mail: 20 (1%)<br />
-      Other: 1 (0%)<br />
     </td>
   </tr>
 </table>
