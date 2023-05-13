@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Boulettes de radis frites</td>
+    <td>2 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>938</td>
+    <td>940</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>717</td>
+    <td>719</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      Baizhu (6)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (3)<br />
+      Baizhu (6)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
-      Nilou (3)<br />
+      Kamisato Ayato (3)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (3)<br />
     </td>
   </tr>
   <tr>
@@ -382,21 +382,21 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1225 (rate -83)</td>
+    <td>1845 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1770041 (rate -76)</td>
+    <td>2552716 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 720 (59%)<br />
-      Spiral Abyss: 300 (25%)<br />
-      Quests: 60 (5%)<br />
-      Adventure: 54 (5%)<br />
-      Mail: 40 (3%)<br />
-      Other: 31 (2%)<br />
+      Daily Activity: 780 (43%)<br />
+      Other: 591 (33%)<br />
+      Spiral Abyss: 300 (16%)<br />
+      Quests: 60 (3%)<br />
+      Adventure: 54 (2%)<br />
+      Mail: 40 (2%)<br />
       Events: 20 (1%)<br />
     </td>
   </tr>
