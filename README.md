@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Conseils de l'aventurier</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -296,29 +296,29 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (6)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       Baizhu (6)<br />
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (6)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        ,
+        height="18"
+      />
+      Tighnari (3)<br />
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
       Kamisato Ayato (3)<br />
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (3)<br />
     </td>
   </tr>
   <tr>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1845 (rate -75)</td>
+    <td>2145 (rate -71)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2552716 (rate -66)</td>
+    <td>2642716 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (43%)<br />
-      Other: 591 (33%)<br />
-      Spiral Abyss: 300 (16%)<br />
+      Daily Activity: 780 (37%)<br />
+      Other: 591 (28%)<br />
+      Mail: 340 (16%)<br />
+      Spiral Abyss: 300 (14%)<br />
       Quests: 60 (3%)<br />
       Adventure: 54 (2%)<br />
-      Mail: 40 (2%)<br />
-      Events: 20 (1%)<br />
+      Events: 20 (0%)<br />
     </td>
   </tr>
 </table>
