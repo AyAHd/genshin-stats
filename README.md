@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Conseils de l'aventurier</td>
+    <td>5 x Minerai de renforcement raffiné</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>941</td>
+    <td>942</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -278,19 +278,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>6</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>6</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>10-3</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>18</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -300,25 +300,25 @@
         ,
         height="18"
       />
-      Kuki Shinobu (6)<br />
+      Kuki Shinobu (13)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Baizhu (6)<br />
+      Nahida (10)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Beidou (3)<br />
+      Xingqiu (10)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
-      Yelan (3)<br />
+      Kamisato Ayato (10)<br />
     </td>
   </tr>
   <tr>
@@ -329,18 +329,18 @@
         ,
         height="18"
       />
-      Nahida (23)<br />
+      Nahida (29)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (101352)<br />
+      Raiden Shogun (148974)<br />
     </td>
   </tr>
   <tr>
@@ -351,29 +351,29 @@
         ,
         height="18"
       />
-      Kamisato Ayato (24021)<br />
+      Kamisato Ayato (115295)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Baizhu (7)<br />
+      Xingqiu (28)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Baizhu (14)<br />
+      Yelan (51)<br />
     </td>
   </tr>
 </table>
@@ -382,19 +382,19 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2602 (rate -65)</td>
+    <td>2962 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3166798 (rate -57)</td>
+    <td>3606773 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 971 (38%)<br />
-      Daily Activity: 840 (33%)<br />
-      Mail: 340 (14%)<br />
-      Spiral Abyss: 300 (11%)<br />
+      Other: 971 (33%)<br />
+      Daily Activity: 900 (31%)<br />
+      Spiral Abyss: 600 (21%)<br />
+      Mail: 340 (11%)<br />
       Adventure: 71 (2%)<br />
       Quests: 60 (2%)<br />
       Events: 20 (0%)<br />
