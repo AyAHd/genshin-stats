@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primo-gemme</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>942</td>
+    <td>945</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>197</td>
+    <td>198</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1400</td>
+    <td>1402</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>65.0%</td>
+          <td>66.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -308,17 +308,17 @@
       />
       Nahida (10)<br />
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (10)<br />
-      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
       Kamisato Ayato (10)<br />
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (10)<br />
     </td>
   </tr>
   <tr>
@@ -382,20 +382,20 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3022 (rate -59)</td>
+    <td>3172 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3714998 (rate -50)</td>
+    <td>3926774 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 971 (33%)<br />
-      Daily Activity: 960 (32%)<br />
-      Spiral Abyss: 600 (20%)<br />
-      Mail: 340 (12%)<br />
-      Adventure: 71 (2%)<br />
+      Daily Activity: 1080 (35%)<br />
+      Other: 971 (31%)<br />
+      Spiral Abyss: 600 (19%)<br />
+      Mail: 360 (12%)<br />
+      Adventure: 81 (2%)<br />
       Quests: 60 (1%)<br />
       Events: 20 (0%)<br />
     </td>
