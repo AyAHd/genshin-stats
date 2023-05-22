@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Conseils de l'aventurier</td>
   </tr>
 </table>
 
@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>683</td>
+    <td>689</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>286</td>
+    <td>292</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>199</td>
+    <td>206</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2027</td>
+    <td>2035</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1403</td>
+    <td>1404</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>384</td>
+    <td>385</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>49</td>
+    <td>51</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>66.0%</td>
+          <td>68.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -382,22 +382,22 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3349 (rate -55)</td>
+    <td>4068 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4204121 (rate -44)</td>
+    <td>4821435 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1200 (36%)<br />
-      Other: 971 (29%)<br />
-      Spiral Abyss: 600 (18%)<br />
-      Mail: 360 (11%)<br />
-      Adventure: 118 (4%)<br />
-      Quests: 60 (1%)<br />
-      Events: 40 (1%)<br />
+      Other: 1402 (35%)<br />
+      Daily Activity: 1260 (31%)<br />
+      Spiral Abyss: 600 (15%)<br />
+      Mail: 360 (9%)<br />
+      Adventure: 226 (6%)<br />
+      Quests: 180 (4%)<br />
+      Events: 40 (0%)<br />
     </td>
   </tr>
 </table>
