@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Minerai de renforcement raffiné</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>957</td>
+    <td>958</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>66</td>
+    <td>67</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
